@@ -19,6 +19,8 @@ website:
         href: projects/index.qmd
       - text: "CV"
         href: cv/index.qmd
+      - text: "Resume"
+        href: resume/index.qmd
   
 
 # Don't touch unless you know what you are doing :) ------------
@@ -27,11 +29,9 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+      <span class="faux-block">&#169; 2024 Andy Man Yeung Tai</span>
     center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
-    right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+      <span class="faux-block"><a href="">Thanks for Visiting!</a></span>
 
 project:
   type: website
