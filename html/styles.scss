@@ -1,7 +1,6 @@
 /*-- scss:defaults --*/
 
 /* From https://github.com/andrewheiss/ath-quarto/blob/main/html/ath.scss */
-
 $white:    #ffffff !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
@@ -13,6 +12,7 @@ $gray-700: #495057 !default;
 $gray-800: #373a3c !default;
 $gray-900: #212529 !default;
 $black:    #000000 !default;
+$navyblue: #0A192F !default;
 
 $blue:    #2780e3 !default;
 $indigo:  #6610f2 !default;
@@ -26,8 +26,8 @@ $green:   #118230 !default;
 $teal:    #068194 !default;
 $cyan:    #3093CF !default;
 
-$primary:   $gray-500 !default;
-$secondary: $gray-700 !default;
+$primary:   $navyblue !default;
+$secondary: $gray-500 !default;
 $success:   $green !default;
 $info:      $cyan !default;
 $warning:   $orange !default;
@@ -35,7 +35,9 @@ $danger:    $red !default;
 $light:     $gray-400 !default;
 $dark:      $black !default;
 
+//body
 
+$body-bg: $gray-400 !default;
 
 // Links
 $link-color: $primary !default;
@@ -61,6 +63,9 @@ $btn-code-copy-color-active: $orange !default;
 
 /*-- scss:rules --*/
 
+body {
+    background-color: $body-bg;  // Sets the background color of the body element
+}
 
 .nav-footer {
     align-items: flex-start;  // Align all flex items to the top
