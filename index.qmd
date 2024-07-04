@@ -4,18 +4,18 @@ about:
   id: about-block
   image: "img/my_image.jpg"
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/MarvinSchmittML
+    - icon: book
+      text: Publications
+      href: https://scholar.google.ca/citations?user=Cs0lX0sAAAAJ&hl=en
     - icon: github
       text: Github
-      href: https://github.com/marvinschmitt
+      href: https://github.com/andytai7
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+      href: https://www.linkedin.com/in/andy-man-yeung-tai-783160122/
     - icon: envelope
       text: Email
-      href: "mailto:mail.marvinschmitt@gmail.com"  
+      href: "mailto:andymytai@gmail.com"  
 ---
 
 ::: {#about-block}
@@ -23,14 +23,23 @@ about:
 
 # Welcome to my website!
 
-I am Gandalf the White, a renowned wizard and scholar of Middle-earth. Over the centuries, I have dedicated my life to studying the history, languages, and cultures of the peoples of Middle-earth. On this website, I offer a glimpse into my vast body of knowledge, ongoing research, and publications.
+I am Andy Tai, a pioneering researcher and academic in the field of Neuroscience and Data Science, focusing on integrating advanced machine learning techniques to enhance public health. My work, centered at the University of British Columbia, bridges the gap between neuroscience and technology, aiming to predict and mitigate risks associated with mental health and substance use disorders.
 
-My research interests span the entirety of Middle-earth, from the distant past to the present day. I am particularly passionate about the languages and mythologies of the Elves, Dwarves, and Men, and I have made significant contributions to the understanding of these subjects. My studies of the natural world have also been extensive, and I am an expert in the flora and fauna of Middle-earth. Additionally, I have been involved in many important historical events and offer valuable first-hand accounts and insights on the past.
+My research portfolio includes a deep dive into the predictive analytics of fatal overdose risks within the realm of Addiction Psychiatry, using extensive datasets and innovative AI methodologies. I have contributed significantly to understanding how data-driven approaches can be employed to improve treatment outcomes and prevent fatalities in vulnerable populations.
 
-Not only am I a scholar, but I am also a mentor and teacher. Over the centuries, I have had the honor of working with many young wizards, passing on my knowledge and experience to the next generation. I have a particular interest in the education of hobbits, whom I see as having great potential despite their small size and simple lifestyle. My teaching style is engaging and accessible, and I encourage my students to think critically and creatively.
+Beyond my research, I am deeply committed to education and mentorship. I have had the privilege of shaping the minds of emerging scientists and data professionals, teaching over 30 courses as part of UBC’s Masters of Data Science and Graduate Neuroscience programs. My teaching philosophy emphasizes practical experience, critical thinking, and ethical considerations in technology and healthcare.
 
-On this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work as one of Middle-earth's greatest scholars and thinkers.
-Please feel free to [contact me](mailto:mail.marvinschmitt@gmail.com) if you have any questions or would like to discuss potential projects.
+Through my work with Generative AI, I have focused on developing applications that enhance diagnostic and therapeutic processes. A prime example is my involvement with the Blog Writer demo project at Aggregate Intellect. This initiative utilized LLMs to transform audio transcripts into engaging blog content automatically, showcasing the power of AI in streamlining content creation and enhancing information dissemination.
+
+At Concussion RX, my role extends beyond traditional research; I leverage AI to revolutionize concussion management. By developing and implementing AI tools like ConcussionRX and Llama 3, we have significantly improved diagnosis accuracy and treatment efficacy. These tools analyze patient data in real-time, offering personalized treatment plans and predictive insights that are pivotal for recovery.
+
+As a recently appointed as a Postdoctoral Teaching and Learning Fellow at the University of British Columbia's Master of Data Science Program. In this role, I am deeply involved in curriculum development and the delivery of cutting-edge courses in Statistics and Machine Learning. My responsibilities extend to training and supervising teaching assistants, as well as overseeing student Capstone projects, fostering a collaborative and innovative learning environment.
+
+My teaching philosophy is rooted in a commitment to making complex concepts in data science accessible and engaging. I strive to integrate real-world applications into my lectures, emphasizing the ethical implications and societal impacts of data science and AI technologies. This approach not only enriches the learning experience but also prepares students to become thoughtful, responsible leaders in the field.
+
+This website is a comprehensive showcase of my scholarly contributions, including peer-reviewed articles, conference presentations, and collaborative projects. You'll also find updates on my ongoing research endeavors and insights into future areas of study. I invite you to explore my work and connect with me for further discussions or collaborations.
+
+Feel free to [contact me](mailto:andymytai@gmail.com)  if you have any questions or are interested in discussing potential projects
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
