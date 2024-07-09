@@ -23,7 +23,7 @@ about:
 
 # Welcome to my website!
 
-I am Andy Tai, a researcher and academic specializing in Healthcare and Data Science. At the University of British Columbia, I integrate advanced machine learning techniques to improve public health, particularly in predicting and mitigating risks related to mental health and substance use disorders.
+Hello! My name is Andy Tai, a researcher and academic specializing in Healthcare and Data Science. At the University of British Columbia, I integrate advanced machine learning techniques to improve public health, particularly in predicting and mitigating risks related to mental health and substance use disorders.
 
 My research portfolio includes a deep dive into the predictive analytics of fatal overdose risks within the realm of Addiction Psychiatry, using extensive datasets and innovative AI methodologies. I have contributed significantly to understanding how data-driven approaches can be employed to improve treatment outcomes and prevent fatalities in vulnerable populations.
 
