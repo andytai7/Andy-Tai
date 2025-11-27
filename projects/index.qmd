@@ -8,6 +8,108 @@ title: Projects
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365717301781" target="_blank"> Publication</a> 
 
-As we delve into the complex interplay of genomics and environment in psychiatric disorders, the potential of machine learning (ML) and big data becomes increasingly apparent. My project, conducted at the University Health Network in Toronto, focuses on the transformative power of ML to redefine disease models and therapeutic discovery in psychiatry. By harnessing vast datasets, our research aims to refine psychiatric diagnosis and enhance therapeutic interventions. The complexity of mental disorders requires a multidimensional approach, and through our work, we're exploring innovative ways to personalize and revolutionize treatment in mental health. This journey not only challenges existing paradigms but also paves the way for significant advancements in the field.
+---
 
+---
+title: "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry"
+---
+
+<iframe
+  src="https://huggingface.co/spaces/andytai7/ODclassifiers"
+  frameborder="0"
+  width="100%"
+  height="800px"
+></iframe>
+
+## Overview
+
+Psychiatric disorders arise from complex interactions between genetic, biological, and environmental factors. Traditional diagnostic frameworks often fail to capture this complexity, resulting in fragmented care and delayed interventions. My research investigates how **machine learning (ML)** and **big data analytics** can transform psychiatric care by developing predictive tools that enable personalized treatment strategies and real-time clinical decision support.
+
+## Overdose Crisis
+
+The opioid overdose crisis in British Columbia exemplifies the urgent need for innovative solutions. Since 2016, over **17,000 lives have been lost to overdose**, and despite sustained public health efforts, care remains fragmented and reactive. Traditional approaches struggle with three fundamental challenges:
+
+1. **Scale and Complexity:** Millions of health records contain subtle patterns that conventional statistical methods cannot detect
+2. **Real-time Prediction:** Clinicians need immediate risk assessments, not retrospective analyses
+3. **Personalization:** One-size-fits-all interventions fail to address individual risk profiles
+
+Machine learning offers unique capabilities to address these challenges through its ability to process vast datasets, identify non-linear relationships, and deliver actionable insights at the point of care.
+
+## Research Program
+
+### 1. Systematic Reviews and Meta-Analysis
+
+I evaluated ML applications in addiction psychiatry and clinical decision support systems, synthesizing evidence across 50+ studies. Key findings revealed that **ensemble methods and deep learning models** consistently outperform traditional approaches, but require rigorous validation to prevent algorithmic bias and ensure fairness across demographic groups.
+
+### 2. Overdose Risk Prediction Models
+
+Using the **BC Provincial Overdose Cohort** (2015-2019, N=36,679 individuals), I developed machine learning classifiers to predict overdose risk. The research involved:
+
+- **Data Engineering:** Processing multi-source health records, handling missing data, and addressing severe class imbalances
+- **Model Development:** Implementing Random Forest, XGBoost, and Support Vector Machine algorithms
+- **Performance:** Achieved **88.77% accuracy** and **91.12% AUROC** for general overdose prediction, substantially outperforming literature benchmarks
+
+**Interactive Demonstration:** I developed a deployable web application showcasing the overdose risk classifier, available at [INSERT HUGGING FACE LINK].
+
+### 3. Clinical Predictors and Survival Analysis
+
+My research identified critical risk and protective factors:
+
+- **Protective Factors:** Opioid Agonist Therapy (OAT) consistently reduced overdose mortality
+- **Risk Factors:** Polysubstance use, co-occurring mental health disorders (particularly depression), and cardiovascular conditions significantly elevated risk
+- **Novel Insights:** The interaction between OAT adherence and mental health status revealed complex patterns requiring personalized intervention strategies
+
+### 4. The Risk Assessment and Management Platform (RAMP)
+
+As Co-Investigator on this **$1.4M Health Canada-funded project**, I led the development of ML models that form RAMP's core prediction engine. RAMP aims to integrate real-time risk assessment into clinical workflows, enabling clinicians to:
+
+- Identify high-risk individuals before crisis events
+- Tailor intervention strategies based on individual risk profiles
+- Monitor treatment effectiveness through longitudinal tracking
+
+**Current Status:** RAMP is in active development and testing phase, with plans for phased deployment across BC's healthcare system. I currently supervise a PhD student continuing RAMP's development and validation.
+
+## Future Research Directions
+
+### 1. Causal Inference for Treatment Optimization
+
+While my current work focuses on prediction, understanding **causal relationships** is essential for intervention design. I plan to incorporate:
+
+- Propensity score matching and inverse probability weighting
+- Instrumental variable approaches for treatment effect estimation
+- Causal discovery algorithms to map intervention pathways
+
+### 2. Real-time Multimodal Data Integration
+
+Current models rely on administrative health records. Future iterations will integrate:
+
+- Wearable device data (heart rate variability, sleep patterns, activity levels)
+- Patient-reported outcomes and ecological momentary assessments
+- Social determinants of health data
+
+### 3. Trustworthy AI and Algorithmic Fairness
+
+As ML systems move toward deployment, ensuring fairness and transparency becomes paramount. My research will address:
+
+- Bias detection and mitigation across demographic groups
+- Explainable AI methods for clinical interpretability
+- Privacy-preserving techniques for sensitive health data
+
+### 4. Implementation Science and Clinical Translation
+
+Technical excellence means nothing without successful deployment. I will investigate:
+
+- Clinician acceptance and workflow integration
+- Patient perspectives on AI-assisted care
+- Health economic evaluations of ML-enhanced interventions
+
+## Research Impact
+
+This work demonstrates that machine learning represents more than technological advancement. It is a **lifeline for vulnerable populations**. By enabling accurate risk prediction, personalized interventions, and real-time clinical support, ML can:
+
+- Reduce preventable mortality in addiction and mental health
+- Bridge gaps in care delivery, particularly for underserved populations
+- Inform evidence-based policy and resource allocation
+
+My research program combines methodological rigor with practical impact, advancing both the science of machine learning and its application to society's most pressing health challenges.
 ----

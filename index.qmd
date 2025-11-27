@@ -21,26 +21,56 @@ about:
 ::: {#about-block}
 :::
 
-# Welcome to my website!
+# Welcome!
 
-Hello! My name is Andy Tai, a researcher and academic specializing in Healthcare and Data Science. At the University of British Columbia, I integrate advanced machine learning techniques to improve public health, particularly in predicting and mitigating risks related to mental health and substance use disorders.
+I'm Andy Tai, a researcher and educator working at the intersection of machine learning, public health, and data science education. As a Postdoctoral Teaching and Learning Fellow at the University of British Columbia's Master of Data Science Program, I develop clinical decision support systems to address critical healthcare challenges while training the next generation of data scientists.
 
-My research portfolio includes a deep dive into the predictive analytics of fatal overdose risks within the realm of Addiction Psychiatry, using extensive datasets and innovative AI methodologies. I have contributed significantly to understanding how data-driven approaches can be employed to improve treatment outcomes and prevent fatalities in vulnerable populations.
+## Research: Machine Learning for Vulnerable Populations
 
-Beyond my research, I am deeply committed to education and mentorship. I have had the privilege of shaping the minds of emerging scientists and data professionals, teaching over 30 courses as part of UBC’s Masters of Data Science and Graduate Neuroscience programs. My teaching philosophy emphasizes practical experience, critical thinking, and ethical considerations in technology and healthcare.
+My research focuses on developing trustworthy AI systems for clinical decision support, particularly addressing the drug toxicity crisis and mental health outcomes in vulnerable populations. I specialize in translating complex machine learning models into practical tools that healthcare providers can use to improve patient outcomes.
 
-Through my work with Generative AI, I have focused on developing applications that enhance diagnostic and therapeutic processes. A prime example is my involvement with the Blog Writer demo project at Aggregate Intellect. This initiative utilized LLMs to transform audio transcripts into engaging blog content automatically, showcasing the power of AI in streamlining content creation and enhancing information dissemination.
+**Risk Assessment and Management Platform (RAMP)**: As Co-Investigator on this Health Canada-funded project ($1.4M CAD), I developed machine learning models for overdose risk prediction using the BC Provincial Overdose Cohort (36,679 cases, 2015-2019). My Random Forest and XGBoost models achieved 88.77% accuracy and 91.12% AUROC for general overdose prediction, analyzing 48 clinical features including medical conditions, substance use patterns, mental health history, and infectious complications. RAMP is currently in development and testing phase, with supervised implementation continuing under my guidance.
 
-At Concussion RX, my role extends beyond traditional research; I leverage AI to revolutionize concussion management. By developing and implementing AI tools like ConcussionRX and Llama 3, we have significantly improved diagnosis accuracy and treatment efficacy. These tools analyze patient data in real-time, offering personalized treatment plans and predictive insights that are pivotal for recovery.
+During my PhD in Neuroscience (completed April 2024), I conducted systematic reviews and meta-analyses of machine learning models for opioid-related outcomes, establishing the methodological foundations for this work. My dissertation, "A machine learning approach to overdose risk assessment," bridges computational methods with clinical applications in addiction psychiatry.
 
-A Postdoctoral Teaching and Learning Fellow at the University of British Columbia's Master of Data Science Program. In this role, I am deeply involved in curriculum development and the delivery of cutting-edge courses in Statistics and Machine Learning. My responsibilities extend to training and supervising teaching assistants, as well as overseeing student Capstone projects, fostering a collaborative and innovative learning environment.
+This work demonstrates how data-driven approaches can transform treatment personalization and prevention strategies for populations facing complex health challenges. My research prioritizes not just predictive accuracy, but the ethical deployment of AI systems in real-world healthcare settings.
 
-I'm passionate about education and have had the privilege of teaching across a diverse range of courses in data science and statistics. My teaching experience spans foundational courses like DSCI 100 where I introduce students to core data science concepts, and STAT 302 covering probability and statistical theory, to advanced applications in DSCI 521, DSCI 513, and DSCI 542 that form the backbone of our Master of Data Science program. I also guide students through hands-on projects in DSCI 591, working with industry partners to tackle real-world challenges, and teach specialized courses in data visualization (DSCI 531), descriptive statistics (DSCI 551), and science communication (SCIE 113, SCIE 300). Whether I'm leading lectures, facilitating labs, or mentoring project teams, I'm committed to creating interactive, engaging learning experiences that help students bridge the gap between theoretical knowledge and practical application. Teaching allows me to share my passion for data science while continuously learning alongside my students as they develop into confident practitioners ready to make meaningful contributions to the field.
+## AI Applications Across Domains
 
-My teaching philosophy is rooted in a commitment to making complex concepts in data science accessible and engaging. I strive to integrate real-world applications into my lectures, emphasizing the ethical implications and societal impacts of data science and AI technologies. This approach not only enriches the learning experience but also prepares students to become thoughtful, responsible leaders in the field.
+I bring computational expertise to diverse problems requiring sophisticated data analysis:
 
-This website is a comprehensive showcase of my scholarly contributions, including peer-reviewed articles, conference presentations, and collaborative projects. You'll also find updates on my ongoing research endeavors and insights into future areas of study. I invite you to explore my work and connect with me for further discussions or collaborations.
+**Maritime Security**: Consulting with Clause Technology, I developed vessel trajectory analysis systems using machine learning to detect illegal fishing activities and maritime criminal behavior, demonstrating the transferability of my methods beyond healthcare contexts.
 
-Feel free to [contact me](mailto:andymytai@gmail.com)  if you have any questions or are interested in discussing potential projects
+**Venture Analytics**: Through Creative Destruction Lab, I applied predictive modeling to startup success assessment, helping investors make data-informed decisions about early-stage technology ventures.
 
+**Concussion Management**: At Concussion RX, I developed AI systems analyzing patient data in real-time to provide personalized treatment recommendations, improving diagnosis accuracy and recovery outcomes.
 
+**Healthcare Communication**: My work with Aggregate Intellect explored how large language models can transform audio transcripts into accessible health information, enhancing patient education and clinical communication efficiency.
+
+## Education: Training Data Scientists for Impact
+
+Teaching is fundamental to my mission. I've taught over 550 graduate students across 10+ courses in UBC's Master of Data Science and Graduate Neuroscience programs, earning multiple teaching awards including the MDS Teaching Assistant Award and Graduate Student Teaching Assistant Award.
+
+**Core Curriculum**: DSCI 100 (Introduction to Data Science), DSCI 521 (Computing Platforms), DSCI 513 (Databases and Data Retrieval), DSCI 542 (Communication and Argumentation), STAT 302 (Probability and Statistics)
+
+**Specialized Methods**: DSCI 531 (Data Visualization), DSCI 551 (Descriptive Statistics and Probability), SCIE 113 & 300 (Science Communication)
+
+**Applied Practice**: DSCI 591 (Capstone Projects with industry partners including BC Cancer Agency, Terramera, and Best Buy Canada)
+
+My teaching philosophy emphasizes hands-on learning, ethical AI deployment, and bridging theoretical knowledge with real-world application. I've co-authored "The Regression Cookbook: Machine Learning and Stats Flavours" and integrate innovative pedagogical approaches including labor-based grading systems and GenAI frameworks for data science education. Students learn not just algorithms, but how to deploy them responsibly in contexts affecting human lives.
+
+## Future Directions
+
+My research trajectory expands into neurobiologically-inspired reward models for LLM fine-tuning, bridging my neuroscience background with current AI expertise. I'm also developing causal inference methodologies and real-time multimodal data integration approaches, moving beyond traditional machine learning to capture the complexity of clinical decision-making processes.
+
+## Bridging Research and Practice
+
+What distinguishes my work is the commitment to operational implementation. From conducting rigorous statistical analyses through developing production-ready applications, I ensure machine learning models become practical tools that healthcare providers and decision-makers can use immediately. This end-to-end approach, spanning data preparation, model development, ethical validation, and web deployment, represents essential practice in applied machine learning for high-stakes domains.
+
+I've secured substantial funding (over $1.4M CAD) and built collaborative networks spanning clinical researchers, policymakers, and industry partners. My interdisciplinary background in neuroscience, statistics, and computer science enables me to address complex problems requiring both technical sophistication and domain expertise.
+
+---
+
+This website showcases my scholarly contributions, interactive tools, and ongoing projects. Explore my work, test the live applications, and connect with me to discuss potential collaborations in healthcare AI, data science education, or clinical decision support systems.
+
+[Contact me](mailto:andymytai@gmail.com) to discuss projects, collaborations, or speaking opportunities.
