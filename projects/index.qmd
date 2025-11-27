@@ -4,24 +4,6 @@ title: Projects
 
 ## Machine Learning in Psychiatry: Insights and Innovations
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.sciencedirect.com/science/article/abs/pii/S0933365717301781', 'blank');"/>
-
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365717301781" target="_blank"> Publication</a> 
-
----
-
----
-title: "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry"
----
-
-<iframe
-	src="https://andytai7-odclassifiers.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
-
-
 ## Overview
 
 Psychiatric disorders arise from complex interactions between genetic, biological, and environmental factors. Traditional diagnostic frameworks often fail to capture this complexity, resulting in fragmented care and delayed interventions. My research investigates how **machine learning (ML)** and **big data analytics** can transform psychiatric care by developing predictive tools that enable personalized treatment strategies and real-time clinical decision support.
@@ -50,7 +32,14 @@ Using the **BC Provincial Overdose Cohort** (2015-2019, N=36,679 individuals), I
 - **Model Development:** Implementing Random Forest, XGBoost, and Support Vector Machine algorithms
 - **Performance:** Achieved **88.77% accuracy** and **91.12% AUROC** for general overdose prediction, substantially outperforming literature benchmarks
 
-**Interactive Demonstration:** I developed a deployable web application showcasing the overdose risk classifier, available at [INSERT HUGGING FACE LINK].
+**Interactive Demonstration:** I developed a deployable web application showcasing the overdose risk classifier, available at hugging face.
+
+<iframe
+	src="https://andytai7-odclassifiers.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
 
 ### 3. Clinical Predictors and Survival Analysis
 
@@ -113,4 +102,8 @@ This work demonstrates that machine learning represents more than technological 
 - Inform evidence-based policy and resource allocation
 
 My research program combines methodological rigor with practical impact, advancing both the science of machine learning and its application to society's most pressing health challenges.
+
+<a href="https://scholar.google.com/citations?user=Cs0lX0sAAAAJ&hl=en" target="_blank"> My Publications</a> 
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.sciencedirect.com/science/article/abs/pii/S0933365717301781', 'blank');"/>
 ----

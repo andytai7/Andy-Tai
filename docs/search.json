@@ -14,60 +14,39 @@
     "text": "Download current resume"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry",
-    "section": "",
-    "text": "Publication"
-  },
-  {
-    "objectID": "projects/index.html#machine-learning-in-psychiatry-insights-and-innovations",
-    "href": "projects/index.html#machine-learning-in-psychiatry-insights-and-innovations",
-    "title": "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry",
-    "section": "",
-    "text": "Publication"
-  },
-  {
     "objectID": "projects/index.html#overview",
     "href": "projects/index.html#overview",
-    "title": "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry",
+    "title": "Projects",
     "section": "Overview",
     "text": "Overview\nPsychiatric disorders arise from complex interactions between genetic, biological, and environmental factors. Traditional diagnostic frameworks often fail to capture this complexity, resulting in fragmented care and delayed interventions. My research investigates how machine learning (ML) and big data analytics can transform psychiatric care by developing predictive tools that enable personalized treatment strategies and real-time clinical decision support."
   },
   {
     "objectID": "projects/index.html#overdose-crisis",
     "href": "projects/index.html#overdose-crisis",
-    "title": "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry",
+    "title": "Projects",
     "section": "Overdose Crisis",
     "text": "Overdose Crisis\nThe opioid overdose crisis in British Columbia exemplifies the urgent need for innovative solutions. Since 2016, over 17,000 lives have been lost to overdose, and despite sustained public health efforts, care remains fragmented and reactive. Traditional approaches struggle with three fundamental challenges:\n\nScale and Complexity: Millions of health records contain subtle patterns that conventional statistical methods cannot detect\nReal-time Prediction: Clinicians need immediate risk assessments, not retrospective analyses\nPersonalization: One-size-fits-all interventions fail to address individual risk profiles\n\nMachine learning offers unique capabilities to address these challenges through its ability to process vast datasets, identify non-linear relationships, and deliver actionable insights at the point of care."
   },
   {
     "objectID": "projects/index.html#research-program",
     "href": "projects/index.html#research-program",
-    "title": "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry",
+    "title": "Projects",
     "section": "Research Program",
-    "text": "Research Program\n\n1. Systematic Reviews and Meta-Analysis\nI evaluated ML applications in addiction psychiatry and clinical decision support systems, synthesizing evidence across 50+ studies. Key findings revealed that ensemble methods and deep learning models consistently outperform traditional approaches, but require rigorous validation to prevent algorithmic bias and ensure fairness across demographic groups.\n\n\n2. Overdose Risk Prediction Models\nUsing the BC Provincial Overdose Cohort (2015-2019, N=36,679 individuals), I developed machine learning classifiers to predict overdose risk. The research involved:\n\nData Engineering: Processing multi-source health records, handling missing data, and addressing severe class imbalances\nModel Development: Implementing Random Forest, XGBoost, and Support Vector Machine algorithms\nPerformance: Achieved 88.77% accuracy and 91.12% AUROC for general overdose prediction, substantially outperforming literature benchmarks\n\nInteractive Demonstration: I developed a deployable web application showcasing the overdose risk classifier, available at [INSERT HUGGING FACE LINK].\n\n\n3. Clinical Predictors and Survival Analysis\nMy research identified critical risk and protective factors:\n\nProtective Factors: Opioid Agonist Therapy (OAT) consistently reduced overdose mortality\nRisk Factors: Polysubstance use, co-occurring mental health disorders (particularly depression), and cardiovascular conditions significantly elevated risk\nNovel Insights: The interaction between OAT adherence and mental health status revealed complex patterns requiring personalized intervention strategies\n\n\n\n4. The Risk Assessment and Management Platform (RAMP)\nAs Co-Investigator on this $1.4M Health Canada-funded project, I led the development of ML models that form RAMP’s core prediction engine. RAMP aims to integrate real-time risk assessment into clinical workflows, enabling clinicians to:\n\nIdentify high-risk individuals before crisis events\nTailor intervention strategies based on individual risk profiles\nMonitor treatment effectiveness through longitudinal tracking\n\nCurrent Status: RAMP is in active development and testing phase, with plans for phased deployment across BC’s healthcare system. I currently supervise a PhD student continuing RAMP’s development and validation."
+    "text": "Research Program\n\n1. Systematic Reviews and Meta-Analysis\nI evaluated ML applications in addiction psychiatry and clinical decision support systems, synthesizing evidence across 50+ studies. Key findings revealed that ensemble methods and deep learning models consistently outperform traditional approaches, but require rigorous validation to prevent algorithmic bias and ensure fairness across demographic groups.\n\n\n2. Overdose Risk Prediction Models\nUsing the BC Provincial Overdose Cohort (2015-2019, N=36,679 individuals), I developed machine learning classifiers to predict overdose risk. The research involved:\n\nData Engineering: Processing multi-source health records, handling missing data, and addressing severe class imbalances\nModel Development: Implementing Random Forest, XGBoost, and Support Vector Machine algorithms\nPerformance: Achieved 88.77% accuracy and 91.12% AUROC for general overdose prediction, substantially outperforming literature benchmarks\n\nInteractive Demonstration: I developed a deployable web application showcasing the overdose risk classifier, available at hugging face.\n\n\n\n\n3. Clinical Predictors and Survival Analysis\nMy research identified critical risk and protective factors:\n\nProtective Factors: Opioid Agonist Therapy (OAT) consistently reduced overdose mortality\nRisk Factors: Polysubstance use, co-occurring mental health disorders (particularly depression), and cardiovascular conditions significantly elevated risk\nNovel Insights: The interaction between OAT adherence and mental health status revealed complex patterns requiring personalized intervention strategies\n\n\n\n4. The Risk Assessment and Management Platform (RAMP)\nAs Co-Investigator on this $1.4M Health Canada-funded project, I led the development of ML models that form RAMP’s core prediction engine. RAMP aims to integrate real-time risk assessment into clinical workflows, enabling clinicians to:\n\nIdentify high-risk individuals before crisis events\nTailor intervention strategies based on individual risk profiles\nMonitor treatment effectiveness through longitudinal tracking\n\nCurrent Status: RAMP is in active development and testing phase, with plans for phased deployment across BC’s healthcare system. I currently supervise a PhD student continuing RAMP’s development and validation."
   },
   {
     "objectID": "projects/index.html#future-research-directions",
     "href": "projects/index.html#future-research-directions",
-    "title": "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry",
+    "title": "Projects",
     "section": "Future Research Directions",
     "text": "Future Research Directions\n\n1. Causal Inference for Treatment Optimization\nWhile my current work focuses on prediction, understanding causal relationships is essential for intervention design. I plan to incorporate:\n\nPropensity score matching and inverse probability weighting\nInstrumental variable approaches for treatment effect estimation\nCausal discovery algorithms to map intervention pathways\n\n\n\n2. Real-time Multimodal Data Integration\nCurrent models rely on administrative health records. Future iterations will integrate:\n\nWearable device data (heart rate variability, sleep patterns, activity levels)\nPatient-reported outcomes and ecological momentary assessments\nSocial determinants of health data\n\n\n\n3. Trustworthy AI and Algorithmic Fairness\nAs ML systems move toward deployment, ensuring fairness and transparency becomes paramount. My research will address:\n\nBias detection and mitigation across demographic groups\nExplainable AI methods for clinical interpretability\nPrivacy-preserving techniques for sensitive health data\n\n\n\n4. Implementation Science and Clinical Translation\nTechnical excellence means nothing without successful deployment. I will investigate:\n\nClinician acceptance and workflow integration\nPatient perspectives on AI-assisted care\nHealth economic evaluations of ML-enhanced interventions"
   },
   {
     "objectID": "projects/index.html#research-impact",
     "href": "projects/index.html#research-impact",
-    "title": "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry",
+    "title": "Projects",
     "section": "Research Impact",
-    "text": "Research Impact\nThis work demonstrates that machine learning represents more than technological advancement. It is a lifeline for vulnerable populations. By enabling accurate risk prediction, personalized interventions, and real-time clinical support, ML can:\n\nReduce preventable mortality in addiction and mental health\nBridge gaps in care delivery, particularly for underserved populations\nInform evidence-based policy and resource allocation"
-  },
-  {
-    "objectID": "projects/index.html#my-research-program-combines-methodological-rigor-with-practical-impact-advancing-both-the-science-of-machine-learning-and-its-application-to-societys-most-pressing-health-challenges.",
-    "href": "projects/index.html#my-research-program-combines-methodological-rigor-with-practical-impact-advancing-both-the-science-of-machine-learning-and-its-application-to-societys-most-pressing-health-challenges.",
-    "title": "Research Statement: Machine Learning for Mental Health and Addiction Psychiatry",
-    "section": "My research program combines methodological rigor with practical impact, advancing both the science of machine learning and its application to society’s most pressing health challenges.",
-    "text": "My research program combines methodological rigor with practical impact, advancing both the science of machine learning and its application to society’s most pressing health challenges."
+    "text": "Research Impact\nThis work demonstrates that machine learning represents more than technological advancement. It is a lifeline for vulnerable populations. By enabling accurate risk prediction, personalized interventions, and real-time clinical support, ML can:\n\nReduce preventable mortality in addiction and mental health\nBridge gaps in care delivery, particularly for underserved populations\nInform evidence-based policy and resource allocation\n\nMy research program combines methodological rigor with practical impact, advancing both the science of machine learning and its application to society’s most pressing health challenges.\n My Publications"
   },
   {
     "objectID": "index.html",
