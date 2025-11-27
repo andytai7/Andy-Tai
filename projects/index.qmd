@@ -15,11 +15,12 @@ title: "Research Statement: Machine Learning for Mental Health and Addiction Psy
 ---
 
 <iframe
-  src="https://huggingface.co/spaces/andytai7/ODclassifiers"
-  frameborder="0"
-  width="100%"
-  height="800px"
+	src="https://andytai7-odclassifiers.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
 ></iframe>
+
 
 ## Overview
 
