@@ -34,6 +34,8 @@ Using the **BC Provincial Overdose Cohort** (2015-2019, N=36,679 individuals), I
 
 **Interactive Demonstration:** I developed a deployable web application showcasing the overdose risk classifier, available at hugging face.
 
+<a href="https://andytai7-odclassifiers.hf.space" target="_blank"> Live Application</a> 
+
 <iframe
 	src="https://andytai7-odclassifiers.hf.space"
 	frameborder="0"
