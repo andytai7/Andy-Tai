@@ -5,7 +5,7 @@
     "image": "",
     "email": "man.tai@uk-essen.de",
     "url": "https://andytai7.github.io/Andy-Tai",
-    "summary": "Federated and privacy-preserving learning and trustworthy AI in medicine: methods that let clinical models learn from distributed hospital data without centralizing patient records, with explicit accounting of communication cost, privacy, and reliability. Building on applied health machine learning — during my PhD in Neuroscience I applied ML to problems in addiction psychiatry, including overdose risk prediction and clinical decision support.",
+    "summary": "Federated and privacy-preserving learning and trustworthy AI in medicine: methods that let clinical models learn from distributed hospital data without centralizing patient records, with explicit accounting of communication cost, privacy, and reliability. Building on applied health machine learning, during my PhD in Neuroscience I applied ML to problems in addiction psychiatry, including overdose risk prediction and clinical decision support.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "University of British Columbia — Master of Data Science, Department of Statistics",
+      "name": "University of British Columbia, Master of Data Science, Department of Statistics",
       "position": "Postdoctoral Teaching & Learning Fellow",
       "location": "Vancouver, BC, Canada",
       "startDate": "2024-07-01",
@@ -60,7 +60,7 @@
       "highlights": [
         "PrairieLearn assessment and rubric design; Quarto-based course websites; lecture materials on data visualization (Altair, ggplot2), simulation, and AI literacy",
         "Evaluator for MDS capstone presentations with industry partners including Clarius Mobile Health and VRIFY Technology",
-        "Department of Statistics EDI Seminar Series coordinator; SEDI Committee postdoctoral representative (Sep 2025 – Jun 2026)"
+        "Department of Statistics EDI Seminar Series coordinator; SEDI Committee postdoctoral representative (Sep 2025 - Jun 2026)"
       ]
     },
     {
@@ -228,8 +228,8 @@
     {
       "title": "Mitacs Globalink Research Award",
       "date": "2022",
-      "awarder": "Mitacs Canada (2022–2023, $6,000 stipend and research costs)",
-      "summary": "Visiting research at University of Sydney, Brain & Mind Centre (Oct 2022 – Jan 2023): machine learning synergy for digital mental health with Prof. Ian Hickie and Dr. Frank Iorfino."
+      "awarder": "Mitacs Canada (2022-2023, $6,000 stipend and research costs)",
+      "summary": "Visiting research at University of Sydney, Brain & Mind Centre (Oct 2022 - Jan 2023): machine learning synergy for digital mental health with Prof. Ian Hickie and Dr. Frank Iorfino."
     },
     {
       "title": "MDS Teaching Assistant Award (2021/22)",
@@ -240,7 +240,7 @@
     {
       "title": "President's Academic Excellence Initiative PhD Award",
       "date": "2021",
-      "awarder": "University of British Columbia (2021–2023)",
+      "awarder": "University of British Columbia (2021-2023)",
       "summary": "UBC program recognition for PhD research contributions."
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "name": "Clinical decision support systems in addiction and concurrent disorders: A systematic review and meta-analysis",
-      "publisher": "Journal of Evaluation in Clinical Practice 30(8), 1664–1683",
+      "publisher": "Journal of Evaluation in Clinical Practice 30(8), 1664-1683",
       "releaseDate": "2024-01-01",
       "url": "https://doi.org/10.1111/jep.14069"
     },
@@ -295,13 +295,13 @@
     },
     {
       "name": "A call for an evidence-based strategy against the overdose crisis",
-      "publisher": "The Canadian Journal of Psychiatry 69(1), 5–9",
+      "publisher": "The Canadian Journal of Psychiatry 69(1), 5-9",
       "releaseDate": "2024-01-01",
       "url": "https://doi.org/10.1177/07067437231188202"
     },
     {
       "name": "Exploring the potential and limitations of ChatGPT for academic peer-reviewed writing: Addressing linguistic injustice and ethical concerns",
-      "publisher": "Journal of Academic Language and Learning 17(1), T16–T30",
+      "publisher": "Journal of Academic Language and Learning 17(1), T16-T30",
       "releaseDate": "2023-01-01",
       "url": "https://journal.aall.org.au/index.php/jall/article/view/903"
     },
@@ -319,7 +319,7 @@
     },
     {
       "name": "Medical students' views on psychiatry in Germany and Italy: Survey",
-      "publisher": "International Journal of Mental Health Promotion 25(9), 985–993",
+      "publisher": "International Journal of Mental Health Promotion 25(9), 985-993",
       "releaseDate": "2023-01-01",
       "url": "https://doi.org/10.32604/ijmhp.2023.030087"
     },
@@ -331,7 +331,7 @@
     },
     {
       "name": "Treatment approaches and outcome trajectories for youth with high-risk opioid use: A narrative review",
-      "publisher": "Early Intervention in Psychiatry 16(3), 207–220",
+      "publisher": "Early Intervention in Psychiatry 16(3), 207-220",
       "releaseDate": "2022-01-01",
       "url": "https://doi.org/10.1111/eip.13155"
     },
@@ -344,7 +344,7 @@
   ],
   "projects": [
     {
-      "name": "FLIP-IT — Federated learning for medical data",
+      "name": "FLIP-IT, Federated learning for medical data",
       "startDate": "2026-07-01",
       "endDate": "",
       "summary": "IKIM, University Hospital Essen; NEXT.IN.NRW-funded. Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework. Collaboration with Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute), and Dr. Moon Kim."
@@ -362,13 +362,13 @@
       "summary": "Methods project on federated protocols in which clients communicate activation or rank codes (which units fire, and in what order) rather than model parameters. Pre-registered control arms and explicit communication-bitrate accounting. Work in progress; no publication attached."
     },
     {
-      "name": "RAMP — Risk Assessment and Management Platform",
+      "name": "RAMP, Risk Assessment and Management Platform",
       "startDate": "2019-01-01",
       "endDate": "2024-12-31",
       "summary": "Health Canada, Substance Use and Addictions Program. $1,407,790, Co-Investigator. An online overdose risk score with tailored feedback."
     },
     {
-      "name": "HAVA — Maritime criminal detection system",
+      "name": "HAVA, Maritime criminal detection system",
       "startDate": "2025-07-01",
       "endDate": "2025-10-01",
       "summary": "With Clause Technology and NCIS. Agentic scraping, NLP incident classification, BERT/NER/fuzzy matching entity resolution, LLM-assisted de-duplication, dockerized MongoDB/PostgreSQL deployment."
