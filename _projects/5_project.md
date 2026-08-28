@@ -18,6 +18,6 @@ Most regression content forces a choice: either the scikit-learn/cross-validatio
 - **Complete method coverage**: from OLS and GLMs through penalized models (ridge/lasso/elastic net), trees and ensembles, to structured data regression, each chapter with assumptions, diagnostics, and end-to-end working code.
 - **Open source and citable**: the full source lives publicly; instructors are encouraged to adapt chapters into their own courses.
 
-**Links:** [GitHub repository](https://github.com/andytai7/cookbook) · source and rendered chapters are maintained there.
+**Links:** [book source (GitHub)](https://github.com/alexrod61/regression-cookbook) · [rendered chapters](https://alexrod61.github.io/regression-cookbook/) · [toy dataset](https://github.com/andytai7/cookbook).
 
 The project grew out of two years as primary instructor across the [UBC Master of Data Science](https://masterdatascience.ubc.ca/) (DSCI), statistics (STAT), and science communication curricula, the same material serves DSCI 551 (Descriptive Statistics and Probability), DSCI 100, and STAT 302 cohorts with very different mathematical backgrounds.
