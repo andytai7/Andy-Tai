@@ -19,6 +19,3 @@ vendor
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc
-
-# user draft CV (synced into working tree; re-add deliberately when finalized)
-/cv.pdf

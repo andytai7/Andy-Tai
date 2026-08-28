@@ -14,4 +14,6 @@ While consulting with **Clause Technology** in collaboration with **NCIS**, I bu
 - **Deployment:** dockerized architecture on MongoDB/PostgreSQL
 - **Impact:** achieved a **65% reduction in manual triage time**
 
+On the same engagement I also developed a **PDF table parsing pipeline** (computer vision and OCR for complex table structures — rotated tables, multi-table pages — with image preprocessing for OCR and variable extraction/standardization).
+
 The project extends my earlier capstone supervision work on vessel trajectory analysis with NCIS, and demonstrates the transferability of clinical-AI methods — multi-source data engineering, class-imbalanced prediction, and human-in-the-loop triage — to security contexts.

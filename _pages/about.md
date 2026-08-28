@@ -3,16 +3,16 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Postdoctoral Teaching and Learning Fellow, <a href='https://masterdatascience.ubc.ca/'>UBC Master of Data Science</a>, Department of Statistics
+  Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Statistics</p>
-    <p>University of British Columbia</p>
-    <p>Vancouver, BC, Canada</p>
+    <p>Institute for Artificial Intelligence in Medicine (IKIM)</p>
+    <p>University Hospital Essen</p>
+    <p>Essen, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,12 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Andy Tai, a researcher and educator working at the intersection of machine learning, public health, and data science education. As a Postdoctoral Teaching and Learning Fellow at the University of British Columbia's Master of Data Science Program, I develop clinical decision support systems to address critical healthcare challenges while training the next generation of data scientists.
+I'm Andy Tai, a Postdoctoral Researcher at the **Institute for Artificial Intelligence in Medicine (IKIM)** at University Hospital Essen, working on federated and privacy-preserving machine learning for medicine — methods that let clinical models learn from distributed hospital data without centralizing patient records, with explicit accounting of communication cost, privacy, and reliability.
 
-My research focuses on trustworthy AI systems for clinical decision support, particularly addressing the drug toxicity crisis and mental health outcomes in vulnerable populations. As Co-Investigator on the Health Canada-funded **Risk Assessment and Management Platform (RAMP)** ($1.4M CAD), I developed machine learning models for overdose risk prediction using the BC Provincial Overdose Cohort (36,679 cases), achieving 88.77% accuracy and 91.12% AUROC. During my PhD in Neuroscience (UBC, 2024), my dissertation, *A machine learning approach to overdose risk assessment*, bridged computational methods with clinical applications in addiction psychiatry.
+My main project is **FLIP-IT** (NEXT.IN.NRW-funded): federated chronic kidney disease risk prediction across general practice clinics using the Flower framework, in collaboration with Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute / TU Dortmund), and Dr. Moon Kim. I also develop **brain-inspired federated continual learning** algorithms (federated synaptic consolidation, federated hippocampal replay, predictive-code FL) that allow clinical models to learn continuously without catastrophic forgetting, and novel **activation- and rank-code communication protocols** for federated learning.
 
-I also apply computational methods across domains: maritime criminal detection with Clause Technology/NCIS, venture analytics with Creative Destruction Lab, concussion management with Concussion RX, and healthcare communication exploring large language models for patient education.
+My background is a PhD in Neuroscience (UBC, 2024), where I applied machine learning to addiction psychiatry: as Co-Investigator on the Health Canada-funded **Risk Assessment and Management Platform (RAMP)** ($1.4M, 2019–2024), I built overdose risk prediction models on the BC Provincial Overdose Cohort (36,679 cases, 88.77% accuracy, 91.12% AUROC). I was then a Postdoctoral Teaching and Learning Fellow in UBC's Master of Data Science program (2024–2026), teaching 550+ students across 10+ graduate courses and co-authoring *The Regression Cookbook: Machine Learning and Stats Flavours*.
 
-Teaching is fundamental to my mission. I've taught over 550 graduate students across 10+ courses in UBC's Master of Data Science and Graduate Neuroscience programs — from statistics and probability to databases and data visualization — and I supervise capstone projects with partners including the BC Cancer Agency, Creative Destruction Lab, and NCIS.
+Beyond academia, I've consulted on the **HAVA maritime criminal detection system** with Clause Technology/NCIS, work as an analyst at NAI Innovations, and developed concussion subtype analysis at Concussion RX.
 
-[Contact me](mailto:andymytai@gmail.com) to discuss collaborations in healthcare AI, data science education, or clinical decision support systems.
+[Contact me](mailto:andymytai@gmail.com) to discuss collaborations in federated learning, trustworthy medical AI, or clinical decision support.

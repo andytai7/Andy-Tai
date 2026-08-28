@@ -10,7 +10,7 @@ related_publications: true
 
 The opioid overdose crisis in British Columbia has claimed **over 17,000 lives since 2016**. Care remains fragmented and reactive: millions of health records contain subtle patterns that conventional statistical methods cannot detect, clinicians need immediate risk assessments rather than retrospective analyses, and one-size-fits-all interventions fail to address individual risk profiles.
 
-As Co-Investigator on the **Risk Assessment and Management Platform (RAMP)** — a **$1.4M Health Canada-funded project** — I developed the machine learning models at RAMP's core, using the **BC Provincial Overdose Cohort** (2015–2019, N = 36,679 individuals):
+As Co-Investigator on the **Risk Assessment and Management Platform (RAMP)** — a **$1,407,790 Health Canada Substance Use and Addictions Program project (2019–2024)** — I developed the machine learning models at RAMP's core, using the **BC Provincial Overdose Cohort** (2015–2019, N = 36,679 individuals):
 
 - **Data engineering:** Processing multi-source health records, handling missing data, and addressing severe class imbalance
 - **Model development:** Random Forest, XGBoost, and Support Vector Machine classifiers over 48 clinical features
@@ -26,8 +26,8 @@ As Co-Investigator on the **Risk Assessment and Management Platform (RAMP)** —
 - **Risk factors:** Polysubstance use, co-occurring mental health disorders (particularly depression), and cardiovascular conditions significantly elevated risk
 - **Novel insights:** Interactions between OAT adherence and mental health status reveal complex patterns requiring personalized intervention strategies
 
-## Current status and next steps
+## Outcomes and next steps
 
-RAMP is in active development and testing, with plans for phased deployment across BC's healthcare system; I supervise the PhD student continuing its validation. Future directions include **causal inference** for treatment optimization, **real-time multimodal data integration** (wearables, patient-reported outcomes, social determinants), **algorithmic fairness** across demographic groups, and **implementation science** for clinical translation.
+The Health Canada SUAP funding concluded in 2024 after delivering the validated prediction platform and clinical decision support architecture. Future directions include **causal inference** for treatment optimization, **real-time multimodal data integration** (wearables, patient-reported outcomes, social determinants), **algorithmic fairness** across demographic groups, and **implementation science** for clinical translation.
 
 My [dissertation and related publications](/Andy-Tai/publications/) establish the methodological foundations: systematic reviews and meta-analyses of ML for opioid-related outcomes across 50+ studies.

@@ -1,0 +1,365 @@
+---
+title: "Curriculum Vitae"
+author: "Man Yeung (Andy) Tai"
+date: "Last updated: 28 August 2026"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=0.5in
+      - top=0.4in
+      - bottom=0.4in
+    fontsize: 9pt
+    linestretch: 1.0
+    toc: false
+    number-sections: false
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+    include-in-header:
+      text: |
+        \pagenumbering{gobble}
+        \setlength{\parindent}{0pt}
+        \setlength{\parskip}{2pt}
+        \usepackage{longtable}
+        \usepackage{booktabs}
+---
+
+# Curriculum Vitae
+**Man Yeung (Andy) Tai, PhD**  
+Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen
+
+---
+
+## Personal Information
+| Field | Details |
+|---|---|
+| **Name** | Man Yeung Tai (Andy) |
+| **Current position** | Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Essen, Germany (Jul 2026 – Present) |
+| **Nationality** | Canadian |
+| **Date and place of birth** | October 25, 1994; Vancouver, Canada |
+| **Languages** | English (native); Cantonese (fluent); Mandarin (conversational); German (beginner) |
+| **Phone** | +1 (604) 319-3226 |
+| **Email** | andymytai@gmail.com; **[TO CONFIRM: IKIM email]** |
+| **Address** | Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Girardetstr. 2, 45131 Essen, Germany |
+| **ORCID** | https://orcid.org/0000-0001-5262-8615 |
+| **Google Scholar** | https://scholar.google.com/citations?user=Cs0lX0sAAAAJ |
+| **GitHub** | https://github.com/andytai7 |
+| **Website** | https://andytai7.github.io/Andy-Tai/ |
+
+---
+
+## Research Interests
+
+My research focuses on federated and privacy-preserving learning and on trustworthy AI in medicine: methods that let clinical models learn from distributed hospital data without centralizing patient records, with explicit accounting of communication cost, privacy, and reliability. This builds on my earlier work in applied health machine learning. My PhD is in neuroscience, where I applied machine learning to problems in addiction psychiatry, including overdose risk prediction and clinical decision support.
+
+| Category | Topics |
+|---|---|
+| **Methods** | Federated and continual learning; privacy-preserving and communication-efficient distributed training; machine learning and deep learning; clinical prediction and risk modelling; statistical modelling and meta-analysis; cumulative link mixed models; natural language processing and large language model tooling; knowledge translation |
+| **Applications** | Federated learning for medical data (FLIP-IT); trustworthy AI in medicine; addiction psychiatry and the overdose crisis; digital and youth mental health; clinical decision support systems; maritime surveillance; data science education and AI literacy |
+
+---
+
+## Current Research Projects
+| Project | Description | Status |
+|---|---|---|
+| **FLIP-IT** (IKIM, University Hospital Essen; NEXT.IN.NRW-funded) | Federated learning for medical data. Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework. Collaboration with Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute), and Dr. Moon Kim; collaboration with the Kamp Lab at TU Dortmund through FLIP-IT. | Ongoing |
+| **Brain-inspired federated continual learning for healthcare AI** | Privacy-preserving federated continual learning algorithms (federated synaptic consolidation; federated hippocampal replay; predictive coding FL) that allow clinical models to learn continuously from distributed hospital data without catastrophic forgetting; open-source federated continual learning benchmark toolkit. | Ongoing |
+| **Activation and rank-code communication protocols for federated learning** | Methods project on federated protocols in which clients communicate activation or rank codes (which units fire, and in what order) rather than model parameters. Pre-registered control arms and explicit communication-bitrate accounting. | Work in progress; no publication attached |
+
+---
+
+## Education
+| Dates | Institution and degree | Details |
+|---|---|---|
+| **Sep 2019 – Apr 2024** | **University of British Columbia (UBC), Vancouver** – PhD, Neuroscience (graduate program with fast-track transfer from MSc) | Supervisor: Dr. Reinhard Michael Krausz; Committee: Dr. Alireza Kazemi; Dr. Raymond Ng; Dr. Christian Schuetz. Applied machine learning on addiction psychiatry. |
+| **2012 – 2017** | **University of Toronto, Toronto** – Honours BSc | Major: Neuroscience; Minors: Environmental Science; Religion |
+| **2008 – 2012** | **West Point Grey Academy, Vancouver** – High School Diploma | |
+
+---
+
+## Theses
+| Year | Thesis | Link |
+|---|---|---|
+| **2024** | Tai, A.M.Y. *Machine Learning Applications in Addiction Risk Prediction.* PhD dissertation, Neuroscience, University of British Columbia. | http://hdl.handle.net/2429/87759 |
+
+---
+
+## Academic Appointments and Professional Experience
+| Dates | Role and organization | Notes |
+|---|---|---|
+| **Jul 2026 – Present** | **Postdoctoral Researcher** – Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Essen, Germany | Federated learning in the FLIP-IT project (NEXT.IN.NRW-funded) with Prof. Jens Kleesiek and Dr. Moon Kim; collaboration with Prof. Michael Kamp and the Kamp Lab, Lamarr Institute, TU Dortmund. See Current Research Projects. |
+| **Jul 2024 – Jun 2026** | **Postdoctoral Teaching and Learning Fellow** – Master of Data Science (MDS) and Department of Statistics, UBC | Two-year appointment, completed June 2026. Primary instructor across MDS, statistics, and science courses. Curriculum development: PrairieLearn assessment and rubric design; Quarto-based course websites; lecture materials on data visualization (Altair, ggplot2), simulation, and AI literacy. Evaluator for MDS capstone presentations with industry partners including Clarius Mobile Health and VRIFY Technology (evaluation role, not supervision). Department of Statistics EDI Seminar Series coordinator; SEDI Committee postdoctoral representative (Sep 2025 – Jun 2026). |
+| **Jul 2025 – Oct 2025** | **Data Science Consultant (freelance, part-time)** – Clause Technology | HAVA maritime criminal detection system: agentic system with automated web scraping; NLP-based incident classification; LLM-assisted similarity de-duplication; BERT/NER/fuzzy matching; Dockerized architecture (MongoDB/PostgreSQL); cloud-ready. PDF table parsing (in development): computer vision and OCR pipeline for complex tables (rotations, multi-table pages); image preprocessing for OCR; variable extraction and standardization. |
+| **Apr 2024 – Present** | **Analyst** – NAI Innovations (Vancouver) | Evaluation of ML-driven startups in medical cannabis symptom management; algorithmic performance analysis; strategy for AI in neuroscience and psychiatry. |
+| **Apr 2024 – Sep 2024** | **Data Scientist** – Concussion RX (Vancouver) | ML and statistical modeling for concussion subtype analysis; clinical onboarding documentation; ConcussionRX and Llama 3 toolchain. |
+| **Sep 2019 – Apr 2024** | **Teaching Assistant** – UBC (MDS, Computer Science, Business Analytics, Medicine) | MDS courses: DSCI 523, 524, 531, 532, 541, 522, 552, 553, 551, 571, 573; BAIT: 507, 509, 580A; CS: CPSC 121, 322; DSCI 320; Medicine: NRSC 501. MDS TA Award (2021/22). |
+| **Sep 2021 – Sep 2024** | **Associate Editor** – URNCST Journal | Mentored undergraduate research teams across natural and clinical sciences. |
+| **Sep 2021 – Nov 2022** | **AP Psychology Tutor** – UHubor Education | |
+| **Nov 2019 – Present** | **Founder/CEO** – Building Blocks (student-led nonprofit) | Peer mentoring app and community; corporation no. 1176510-8. |
+| **Nov 2019 – Mar 2020** | **Head Coach (Grade 8 Basketball)** – West Point Grey Academy | Youth coaching and team development. |
+| **2018 – 2019** | **Research Assistant** – Addiction and Concurrent Disorders Group, Institute of Mental Health, UBC | E-mental health: WalkAlong; RAMP (Risk Assessment and Management Platform); conference organizing. |
+| **Nov 2018 – Dec 2018** | **Research Assistant** – BC Children's Hospital / CFRI, UBC | Microglia morphology in bipolar disorder and schizophrenia cortical tissue (Beasley Lab). |
+| **Sep 2018 – Dec 2018** | **Research Analyst** – NAI Interactive Ltd. | Biotech pipeline data mining and research. |
+| **May 2017 – Jun 2018** | **Lab Technician** – SickKids, PGCRL (Josselyn Lab), Toronto | Epitranscriptomics; optogenetics; operant behavior; DNA construct work; animal perfusions and imaging. |
+| **Jan 2016 – May 2017** | **Research Assistant** – Toronto Western Hospital, MDPU (McIntyre) | Big data and ML in psychiatry; meta-analysis on THC and cognition; first-author ML review. |
+| **May 2015 – Jun 2017** | **Lifeguard** – Hart House, University of Toronto | NLS/CPR-C certified. |
+
+---
+
+## Educational Research and Scholarship
+| Item | Description |
+|---|---|
+| **The Regression Cookbook: Machine Learning and Stats Flavours** | Open educational resource funded by the UBC OER Fund. Co-author and curriculum developer; comprehensive textbook bridging machine learning and statistical approaches with dual-language (Python and R) implementations and common terminology between disciplines. |
+| **TLEF-funded study on AI literacy in higher education** | TLEF-funded study of AI literacy in higher education. Built the statistical analysis framework using cumulative link mixed models and Stuart-Maxwell tests for marginal homogeneity. |
+| **Responsible generative AI in data science education** | Frameworks for responsible generative AI use in data science education: GenAI policy lab, collaborative brainstorming, critical visualization assessment, and AI-resilient assessment design in DSCI 531. |
+
+---
+
+## Teaching
+
+**Primary instructor (two academic years, UBC)**
+
+| Course | Title |
+|---|---|
+| **DSCI 100** | Statistics and Data Science |
+| **DSCI 513** | Databases and SQL for Data Science |
+| **DSCI 521** | Data Science: Tooling |
+| **DSCI 531** | Data Visualization I |
+| **DSCI 542** | Communication and Argumentation |
+| **DSCI 551** | Descriptive Statistics and Probability for Data Science |
+| **DSCI 591** | Capstone Project |
+| **STAT 302** | Introduction to Probability |
+| **SCIE 113** | Science Communication |
+| **SCIE 300** | Science Communication |
+
+**Curriculum development and assessment**
+- PrairieLearn assessment and rubric design across MDS courses.
+- Quarto-based course websites.
+- Lecture materials on data visualization (Altair, ggplot2), simulation, and AI literacy.
+- Evaluator for MDS capstone presentations with industry partners including Clarius Mobile Health and VRIFY Technology. Evaluation role, not supervision.
+
+---
+
+## MDS Capstone Projects (DSCI 591)
+| Project | Partner and scope | Methods and deliverables | Role |
+|---|---|---|---|
+| **External Demand Signals for Handheld Ultrasound** | Clarius Mobile Health | Monthly country-by-state-by-channel lead panel (58 months, 2021-2025) linked to Google Trends, GA4 traffic, marketing campaigns, news volume, macroeconomic, weather, demographic, and hospital infrastructure sources; staged feature selection reducing 252 candidates to 29; fixed-effect Negative Binomial GLM; Bayesian mixed GLM with partially pooled geographic random intercepts; Bayesian Structural Time Series (Stan/PyStan); Docker/Conda-pinned, unit-tested Quarto documentation. | Capstone presentation evaluation |
+| **CPOE Impact Evaluation on Pediatric Laboratory Services** | BC Children's Hospital, Department of Pathology and Laboratory Medicine (sponsor: Dr. Vilte Barakauskas) | Evaluation of computerized provider order entry, Clinical Collect ID-band scanning, and electronic ordersets following the February 2022 CST Cerner go-live; SQL linkage of Sunquest laboratory information system and CST Cerner EHR extracts within the PHSA PANDA secure enclave; derived-metric construction; pre- and post-implementation evaluation. | DSCI 591 project supervision |
+| **Deep Learning for Soil Geochemistry Prediction** | VRIFY Technology Inc. | Multi-source raster pipeline (~130 GeoTIFF covariates per area); multicollinearity filtering and Recursive Feature Elimination across ten target elements; spatially blocked StratifiedGroupKFold (2 km tiles); lightweight CNN, expert per-element CNN, U-Net (ResNet-34 encoder), DOFA foundation model; SHAP-based attribution; MLflow tracking. Final CNN on vectorized targets reached held-out R² of 0.41 against a production RandomForest baseline at 0.34. | Capstone presentation evaluation |
+| **MedDRA Autocoder** | Vaccine Evaluation Center, BC Children's Hospital Research Institute | Hybrid retrieval system coding free-text clinical verbatim to MedDRA concepts; biomedical sentence embeddings (SapBERT, BioLORD, BiomedBERT benchmarked) with lexical similarity re-weighting; Streamlit application with two-stage reviewer adjudication and Dictionary Manager. BioLORD selected as production encoder, Top-3 PT+SOC retrieval accuracy 0.887 on internal evaluation. | DSCI 591 project supervision |
+| **CDL Venture Dashboard** | Creative Destruction Lab | Survival analysis (Cox PH), graduation prediction (XGBoost, HistGB), KNN similarity; LLM-based feature extraction (GPT-4); Dockerized Plotly Dash app; early-warning analytics. | DSCI 591 project supervision |
+| **Automated Phishing Detection** | UBC Cybersecurity | Containerized web service; email classification pipeline; monitoring dashboard; reproducible documentation and deployment. | DSCI 591 project supervision |
+| **Semi-Supervised Vessel Trajectories** | Nautical Crime Investigation Services | AIS maritime data (~20 GB); HMM segmentation; LSTM sequence labeling; Random Forests; land filtering, vessel ID triage, trip labeling; full evaluation framework. Led to a published journal article (EAAI 2026, see publications). | DSCI 591 project supervision |
+
+---
+
+## Publications: Peer-Reviewed Journal Articles
+
+13 peer-reviewed journal articles, 6 as first author and 1 as corresponding author (marked *). Cited 389 times (Google Scholar, August 2026). Consistent format: Authors. Title. Journal, volume(issue), pages or article number. DOI.
+
+| Year | Citation |
+|---|---|
+| **2026** | Sanghera, A.; Singh, P.; Chu, E.; Leem, S.; Li, R.; Ghattan, S.; Tai, A.M.Y.* Semi-supervised vessel trajectory analysis for unregulated fishing activity detection. *Engineering Applications of Artificial Intelligence*, 169, 113933. doi:10.1016/j.engappai.2026.113933. Corrigendum: *Engineering Applications of Artificial Intelligence*, 172, 114387 (2026). doi:10.1016/j.engappai.2026.114387. |
+| **2026** | Tai, A.M.Y.; Hickie, I.; Capon, W.; Prodan, A.; Sanghera, A.; Krausz, M.; Iorfino, F. Rethinking AI in youth mental health: promise, perils, and ethical integration. *International Journal of Mental Health Systems*, 20(1). doi:10.1186/s13033-026-00714-z. |
+| **2025** | Tai, A.M.Y.; Kazemi, A.; Kim, J.J.; Schmeckenbecher, J.; Kitchin, V.; Suen, J.; Moro, R.; Krausz, R.M. Utilizing Machine Learning for Early Intervention and Risk Management in the Opioid Overdose Crisis. *WIREs Computational Statistics*, 17(1), e70008. doi:10.1002/wics.70008. |
+| **2024** | Tai, A.M.Y.; Kim, J.J.; Schmeckenbecher, J.; Kitchin, V.; Wang, J.; Kazemi, A.; Krausz, R.M. Clinical decision support systems in addiction and concurrent disorders: A systematic review and meta-analysis. *Journal of Evaluation in Clinical Practice*, 30(8), 1664-1683. doi:10.1111/jep.14069. |
+| **2024** | Kazemi, A.; Boyd, M.; Choi, F.; Tai, A.M.Y.; Tsang, V.W.L.; To, T.; Kim, J.; Jang, K.; Schmeckenbecher, J.; Krausz, R.M. Architecture and development framework for a web-based risk assessment and management platform developed on WordPress to address opioid overdose. *JMIR Formative Research*, 8, e49759. doi:10.2196/49759. |
+| **2024** | Krausz, R.M.; Westenberg, J.N.; Tai, A.M.Y.; Fadakar, H.; Seethapathy, V.; Buxton, J.; Hayashi, K.; Milloy, M.J. A call for an evidence-based strategy against the overdose crisis. *The Canadian Journal of Psychiatry*, 69(1), 5-9. doi:10.1177/07067437231188202. |
+| **2023** | Tai, A.M.Y.; Meyer, M.; Varidel, M.; Prodan, A.; Vogel, M.; Iorfino, F.; Krausz, R.M. Exploring the potential and limitations of ChatGPT for academic peer-reviewed writing: Addressing linguistic injustice and ethical concerns. *Journal of Academic Language and Learning*, 17(1), T16-T30. https://journal.aall.org.au/index.php/jall/article/view/903. |
+| **2023** | Shams, F.; Tai, A.M.Y.; Kim, J.; Boyd, M.; Meyer, M.; Kazemi, A.; Krausz, R.M. Adherence to e-health interventions for substance use and the factors influencing it: Systematic review, meta-analysis, and meta-regression. *Digital Health*, 9, 20552076231203876. doi:10.1177/20552076231203876. |
+| **2023** | Sudan, H.K.; Tai, A.M.Y.; Kim, J.; Krausz, R.M. Decrypting the cryptomarkets: Trends over a decade of the Dark Web drug trade. *Drug Science, Policy and Law*, 9, 20503245231215668. doi:10.1177/20503245231215668. |
+| **2023** | Tai, A.M.Y.; Suen, J.; Kamel, M.M.; Schomerus, G.; Maremmani, A.G.I.; Krausz, R.M. Medical students' views on psychiatry in Germany and Italy: Survey. *International Journal of Mental Health Promotion*, 25(9), 985-993. doi:10.32604/ijmhp.2023.030087. |
+| **2022** | Mamdouh, M.; Tai, A.M.Y.; Westenberg, J.N.; Shams, F.; Jang, K.; Badawy, A.; Krausz, R.M. Egyptian students open to digital mental health care: Cross-sectional survey. *JMIR Formative Research*, 6(3), e31727. doi:10.2196/31727. |
+| **2022** | Westenberg, J.N.; Tai, A.M.Y.; Elsner, J.; Kamel, M.M.; Wong, J.S.H.; Azar, P.; Vo, D.X.; Krausz, R.M. Treatment approaches and outcome trajectories for youth with high-risk opioid use: A narrative review. *Early Intervention in Psychiatry*, 16(3), 207-220. doi:10.1111/eip.13155. |
+| **2019** | Tai, A.M.Y.; Albuquerque, A.; Carmona, N.E.; Subramanieapillai, M.; Cha, D.S.; Sheko, M.; Lee, Y.; Mansur, R.; McIntyre, R.S. Machine learning and big data: Implications for disease modeling and therapeutic discovery in psychiatry. *Artificial Intelligence in Medicine*, 99, 101704. doi:10.1016/j.artmed.2019.101704. |
+
+---
+
+## Preprints
+| Year | Citation |
+|---|---|
+| **2025** | Tai, A.M.Y.; Kazemi, A.; Krausz, R.M. A machine learning approach: A classification model for overdose. *Research Square*. doi:10.21203/rs.3.rs-7380471/v1. Preprint of the manuscript under review at BMC Public Health. |
+| **2022** | Tai, A.M.Y.; Suen, J.; Chopra, G.; Westenberg, J.N.; Elsner, J.; Cabanis, M.; Kamel, M.M.; Schomerus, G.; Bluhm, M.; Maremmani, A.G.I.; Moghadam, A.; Meyer, M.; Choi, F.; et al. Personal and educational experiences of medical students on attitudes towards psychiatry. *Research Square*. doi:10.21203/rs.3.rs-2299344/v1. |
+
+---
+
+## Submitted / Under Review
+| Year | Authors | Title | Venue | Status |
+|---|---|---|---|---|
+| **2025** | Tai, A.M.Y.; Kazemi, A.; Krausz, R.M. | A machine learning approach: A classification model for overdose | BMC Public Health | Under review. Revised submission passed technical checks; with editor for decision. Preprint at Research Square. |
+| **2025** | Sanghera, A.; Diwan, A.; Daswani, R.; Tai, A.M.Y.; Krausz, R.M. | Role of Artificial Intelligence in mental health | Innovations in Global Mental Health (Springer) | Under review. Book chapter. |
+
+---
+
+## Manuscript Review Activities
+| Manuscript title | Journal | Date |
+|---|---|---|
+| Use of Voice Features from Smartphones for Monitoring Depressive Disorders: Scoping Review | Digital Health | Mar 2024 |
+| Exploring student preferences for implementing a digital mental health intervention in a university setting: Qualitative study within a randomised controlled trial | Digital Health | Jul 2024 |
+| Effective elements of eHealth interventions for mental health and well-being in children and adolescents: A systematic review | Digital Health | Aug 2024 |
+| Evaluating the Readability and Reliability of Large Language Model Generated Information About Anxiety and Depression | Digital Health | Jan 2025 |
+| Ethical and Social Issues in Prediction of Risk of Severe Mental Illness: A Scoping Review | BMC Psychiatry | Jan 2025 |
+| DepGLM: Depression Degree Recognition on Social Media Based on Large Language Models | Digital Health | Mar 2025 |
+| Mediating Effect of Depression on the Relationship of Short Video Use and Insomnia Symptoms Among Rural Adults: A Representative Cross-Sectional Survey in Shandong Province | Digital Health | Apr 2025 |
+| Technology for Mental Health: Reflections on Scope and Future Directions in Institutes of Higher Education in India | Online Journal of Public Health Informatics | Jun 2025 |
+| Objective Screening of Adolescent Major Depressive Disorder Using Computerized Cognitive Markers: A LASSO Regression Model Validated Against PHQ-9 | BMC Psychiatry | Jun 2025 |
+| A Bibliometric and Visual Analysis of Artificial Intelligence Applications in Depression Detection and Diagnosis: Trends and Future Directions | JMIR Mental Health | Jul 2025 |
+| Mental health problems raise the odds of cognitive impairment in COVID-19 survivors | Journal of Evidence Based Medicine | Jul 2025 |
+| Using smartphone-tracked behavioural markers to recognize depression and anxiety symptoms: Digital phenotyping in the Netherlands Study of Depression and Anxiety | JMIR Mental Health | Aug 2025 |
+| Development and Validation of a Machine Learning-Based Predictive Model for Anxiety Disorders in Patients with Premature Ejaculation: A Multicenter Prospective Study | JMIR Formative Research | Aug 2025 |
+| A Machine-Learning-Derived Online Prediction Platform for Rapid Decline in Kidney Function Risk among Community-Dwelling Middle-Aged and Older Adults: a Nationwide Cohort Study | JMIR Aging | Sep 2025 |
+| Classification of Tourette's Syndrome Using Cortico-Striatal-Thalamic-Cortical Circuit Segmentation and Convolutional Neural Networks: A Machine Learning Study | JMIR AI | Sep 2025 |
+| Predicting Suicidal Ideation Among U.S. Adolescents Using Supervised Machine Learning and AI-Driven Deep Learning: Algorithm Development and Validation Study | JMIR AI | Oct 2025 |
+| Technology for Mental Health: Reflections on Scope and Future Directions in Institutes of Higher Education in India | Online Journal of Public Health Informatics | Oct 2025 |
+
+---
+
+## Research Funding
+| Funder | Project | Amount | Years | Role |
+|---|---|---:|---|---|
+| **Health Canada, Substance Use and Addictions Program** | Risk Assessment and Management Platform (RAMP): An online overdose risk score with tailored feedback | $1,407,790 | 2019 – 2024 | Co-Investigator |
+
+---
+
+## Published Software
+| Package | Description | Repository |
+|---|---|---|
+| **GGenemy** | R package for automated auditing of ggplot2 visualizations for accessibility, readability, and misleading practices. Color vision deficiency simulation; WCAG 2.1 contrast ratios; detection of truncated axes, small text, missing labels, inadequate point sizes, color-only encoding; automated fix suggestions. | CRAN: https://cran.r-project.org/web/packages/GGenemy/index.html |
+
+---
+
+## Service and Leadership
+| Dates | Role | Organization | Notes |
+|---|---|---|---|
+| **2025 – Jun 2026** | **Coordinator, EDI Seminar Series** | Department of Statistics, UBC | Speaker invitation and scheduling for the department EDI seminar series. |
+| **Sep 2025 – Jun 2026** | **Postdoctoral Representative, SEDI Committee** | Department of Statistics, UBC | Equity, diversity, and inclusion initiatives, policy, seminars, and mentorship programs. |
+| **Jan 2025 – Feb 2025** | **Member, Selection Committee** | MasterCard Foundation and UBC | Reviewed approximately 150 scholarship applications for a fair and inclusive selection process. |
+
+---
+
+## Awards and Honors
+| Year | Award | Notes |
+|---|---|---|
+| **2022 – 2023** | **Mitacs Globalink Research Award** | $6,000 (stipend and research costs) for visiting research at University of Sydney |
+| **2021 – 2022** | **UBC MDS Teaching Assistant Award** | Outstanding TA contributions across multiple MDS courses |
+| **2021 – 2023** | **President's Academic Excellence Initiative PhD Award** | UBC program recognition for PhD research contributions |
+| **2021** | **UBC Research Day People's Choice (Lightning Talk and ePoster)** | AI/ML overdose risk modeling |
+| **2019** | **Faculty of Medicine Graduate Award** | UBC |
+| **2019** | **NIDA Travel Award** | $500 USD (2020 NIDA International Forum) |
+
+---
+
+## Certifications and Professional Development
+| Dates | Item | Notes |
+|---|---|---|
+| **Jul 2025** | **ICML 2025 (Vancouver)** | Conference attendance |
+| **Aug 2024** | **Instructional Skills Workshop (ISW)** – UBC CTLT | Teaching effectiveness, active learning, assessment |
+| **Sep 2024 – Apr 2025** | **Teaching Development Program (TDP) for New Faculty** – UBC | 40-55 hours; reflective practice; learner-centered strategies; Indigenous engagement; inclusive pedagogy |
+| | **IFSE Officers', Partners' and Directors' Course** | |
+| | **First Aid and CPR-C; NLS Lifeguard; Naloxone Training** | |
+
+---
+
+## Selected Presentations (Invited Talks, Workshops, Posters)
+| Date | Event and venue | Contribution |
+|---|---|---|
+| **Jun 9-10, 2023** | **1st Canadian Academy of Addiction Psychiatry (CAAP) Conference** – UBC/BCMHSUS/PHSA | Event coordinator and participant |
+| **Mar 9, 2023** | **3rd Annual BC Concurrent Disorders Conference** – BCMHSUS | Lightning talk: ML predictive model for overdose |
+| **Apr 18, 2023** | **Let's Talk Overdose: Shortcut to Survival (Youth)** | Presenter |
+| **Dec 6, 2022** | **Translation in Action: Neuropsychiatry to Health Solutions** | Live e-poster: ML and overdose risk |
+| **Apr 6-7, 2022** | **Let's Talk Overdose** | Workshops: Risk assessment and classification (with Drs. Ng and Kazemi); decision support implementation (with Jane Kim) |
+| **Jan 25, 2022** | **Virtual Solutions for Substance Use** | Workshop: Chatbots in substance use care (with Jane Kim) |
+| **Jun 23, 2021** | **Let's Talk Overdose: The Hidden Pandemic** | Workshop: Overdose risk factors (with C. Hutton) |
+| **Apr 3, 2021** | **UBC Psychiatry Research Day** | Poster: ML overdose risk (preliminary model) |
+| **Mar 3-4, 2021** | **10th Annual E-Mental Health Conference** | Workshop: ML risk factors of fatal overdose (with A. Kazemi) |
+| **Jan 25, 2021** | **High-Risk Substance Use and Overdose Among Youth** | Workshop moderator (3 themed blocks) |
+| **Dec 9, 2020** | **Virtual Solutions for Substance Use Care** | Keynote: ML methods and predictive modeling (with A. Kazemi) |
+| **Nov 25, 2020** | **CAIDA: BC's AI Showcase** | Poster: Predictive model for overdose |
+| **Oct 21, 2020** | **CAPE Annual Scientific Symposium** | Poster: Predictive model for overdose |
+| **Sep 24-25, 2020** | **2nd International Psychiatry Congress (Tanta, Egypt)** | Keynote (15 min): ML in psychiatry and public health |
+| **Jun 20-24, 2020** | **CPDD International Workshop** | Poster: Review of OUD treatments for youth |
+| **Jun 19-21, 2020** | **NIDA International Forum** | Poster: Review of OUD treatments for youth |
+| **Feb 2020** | **BCCDC GEOOD Conference** | Public health agenda for geographic overdose contributors |
+| **Jun 20, 2019** | **UBC Psychiatry Research Day** | Lightning talk: RAMP |
+| **Jun 2019** | **World Congress of Biological Psychiatry** | Contributor: Microglial morphology study |
+| **Feb 1-2, 2019** | **Addiction and Concurrent Disorders E-Mental Health Conference** | Posters: AI in fatal overdose prediction; technology access and literacy in concurrent disorders |
+
+---
+
+## International Research Experience
+| Dates | Institution | Project and supervisors |
+|---|---|---|
+| **Oct 30, 2022 – Jan 22, 2023** | **University of Sydney**, Brain and Mind Centre (Digital Mental Health Team) | Project: Machine Learning Synergy. Home supervisor: Dr. Michael Krausz. Hosts: Prof. Ian Hickie; Dr. Frank Iorfino. Funding: Mitacs Globalink. |
+
+---
+
+## Mentorship and Supervision
+| Dates | Mentee or program | Topic or project |
+|---|---|---|
+| **2025 – Present** | **Agam Sanghera (PhD student, Neuroscience)** | Thesis in progress |
+| **Jan 2025 – Apr 2025** | **Faculty Mentor, UBC Integrated Sciences** (F. Farouj) | Curriculum and degree planning (data science, computer science, neuroscience) |
+| **Jan 2025 – Apr 2025** | **Mentor, Venture Founder C49** (Innovation UBC) | Strategy coaching for early-stage ventures |
+| **Jan 2023 – May 2023** | **J. Feng (University of Toronto)** | Telemedicine versus in-person outcomes in mental health |
+| **Jan 2023 – May 2023** | **S. Jain (Nova Southeastern)** | E-health in LMICs |
+| **Jan 2023 – May 2023** | **D. Walji and E. Li (Queen's)** | Comorbidities of overdose, systematic review |
+| **Jun 2022 – Aug 2022** | **X. Kong (University of Toronto)** | ML feasibility in Alzheimer's neurodegeneration |
+
+MDS capstone teams are listed under MDS Capstone Projects (DSCI 591), with roles stated per project. Capstone work with Clarius Mobile Health and VRIFY Technology was presentation evaluation, not supervision.
+
+---
+
+## Community Engagement and Volunteer Work
+| Dates | Role | Organization and notes |
+|---|---|---|
+| **Nov 2025** | **Judge** | Science Case Competition 2025 (SCI TEAM, UBC Faculty of Science); evaluated team presentations on BC wildfire resilience strategies |
+| **Jan 2025 – Apr 2025** | **Mental Health Ministry Coordinator** | Tenth Church; monthly seminars; Sanctuary Course (8 weeks) |
+| **2024** | **Panelist** | National Undergraduate Research Conference (UBC Neuroscience Club); 323 attendees, 41 research presentations |
+| **2019 – Present** | **Founder** | Building Blocks (nonprofit peer mentoring app) |
+| **2019 – 2021** | **Member** | Walter Gage Toastmasters (communication and leadership) |
+| **2019 – 2023** | **CS:GO Director** | UBC Esports |
+| **2019 – 2020** | **VP Student Life; 1st-year Representative** | Neuroscience Graduate Student Association (UBC) |
+| **2019 – 2020** | **Volunteer** | Coast Mental Health (Vancouver); mentorship and activities |
+| **2018** | **Charity Intramural All-Star Game** | University of Toronto; Right To Play fundraiser |
+| **2013 – 2014** | **HELP Program** | Toronto Western Hospital; elder care support |
+| **2012** | **ME to We (Kenya)** | School construction volunteer (Maasai Mara) |
+
+---
+
+## Technical Skills
+| Category | Tools |
+|---|---|
+| **Programming** | Python; R; JavaScript; React (basic); SQL |
+| **Federated learning** | Flower framework; federated pipeline design; communication-efficient distributed training |
+| **ML and data science** | scikit-learn; TensorFlow; PyTorch; BERT/transformers; NLP |
+| **LLM infrastructure** | Configuring agentic coding tools against a custom LiteLLM gateway; LLM-assisted pipelines |
+| **Viz and notebooks** | JupyterLab; RStudio; VS Code; Altair; ggplot2 |
+| **Databases** | MongoDB; PostgreSQL; SQL |
+| **Cloud and DevOps** | Docker; AWS (basics) |
+| **Statistics and meta-analysis** | SPSS; SAS (basics); Covidence; cumulative link mixed models; Stuart-Maxwell tests |
+| **Productivity** | MS Office; Google Suite; Slack; Mendeley; Adobe CC; Photoshop; Wix; WordPress; NVivo |
+| **Course infrastructure** | PrairieLearn assessment and rubric design; Quarto course websites |
+
+---
+
+## Athletic Achievement
+| Years | Achievement |
+|---|---|
+| **2012 – 2014** | **Varsity Basketball Team**, University of Toronto |
+
+---
+
+## References
+| Name | Role and contact |
+|---|---|
+| **Dr. Reinhard Michael Krausz** | UBC-Providence Leadership Chair for Addiction Research; Professor of Psychiatry; Director, Addiction Psychiatry; +1 (604) 649-9336; mkrausz@mail.ubc.ca |
+| **Dr. Raymond Ng** | Professor, Department of Computer Science, University of British Columbia; +1 (604) 822-2394; rng@cs.ubc.ca |
+| **Dr. Varada Kolhatkar** | Associate Professor of Teaching in Computer Science; Co-Director, Master of Data Science (Vancouver); kvarada@cs.ubc.ca |
+
+---
+
+## Items to Verify
+| Item | Note |
+|---|---|
+| **IKIM email address** | Placeholder retained above; please confirm the uk-essen.de mailbox. |
+| **npj Digital Medicine submission** | The AI in youth mental health paper was located and verified: it is published in the *International Journal of Mental Health Systems* (2026), not npj Digital Medicine, and is listed above. No citation found for an npj Digital Medicine item under this authorship. |
