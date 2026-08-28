@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: GitHub profile and selected open-source repositories — the GGenemy R package, overdose risk prediction models, and federated learning demos.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 {% if site.data.repositories.github_users %}

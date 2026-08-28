@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Machine learning for clinical decision support, data science education, and applied AI across domains.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [research, industry]
 horizontal: true
 ---

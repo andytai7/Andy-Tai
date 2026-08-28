@@ -108,7 +108,7 @@ max_width: 930px
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: true # Include Open Graph meta tags in the HTML head
-og_image: /assets/img/prof_pic.jpg # default Open Graph image (used when a page doesn't provide its own)
+og_image: /assets/img/og_cover.jpg # default Open Graph image (used when a page doesn't provide its own)
 serve_schema_org: false # Include Schema.org in the HTML head
 
 # -----------------------------------------------------------------------------
@@ -133,8 +133,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Andy Tai # blog_name will be displayed in your blog page
-blog_description: news and notes
+blog_name:   # no header bar; the nav label and post titles carry the blog identity. blog_name will be displayed in your blog page when set.
+blog_description: 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -330,8 +330,8 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["federated-learning", "medical-ai", "privacy"] # these tags will be displayed on the front page of your blog
+display_categories: ["research", "industry"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
