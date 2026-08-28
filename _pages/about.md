@@ -36,4 +36,4 @@ My background is a PhD in Neuroscience (UBC, 2024), where I applied machine lear
 
 Beyond academia, I've consulted on the **HAVA maritime criminal detection system** with Clause Technology/NCIS, work as an analyst at NAI Innovations, and developed concussion subtype analysis at Concussion RX.
 
-[Contact me](mailto:andymytai@gmail.com) to discuss collaborations in federated learning, trustworthy medical AI, or clinical decision support.
+[Contact me](mailto:man.tai@uk-essen.de) to discuss collaborations in federated learning, trustworthy medical AI, or clinical decision support.

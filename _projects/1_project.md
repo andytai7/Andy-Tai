@@ -3,7 +3,7 @@ layout: page
 title: "Machine Learning for Overdose Risk Prediction (RAMP)"
 description: "Health Canada-funded clinical decision support for the opioid overdose crisis"
 img: assets/img/project_1_banner.png
-importance: 1
+importance: 2
 category: research
 related_publications: true
 ---

@@ -3,7 +3,7 @@ layout: page
 title: "HAVA: Maritime Criminal Detection"
 description: "Agentic NLP pipeline for detecting illegal fishing and maritime criminal behaviour"
 img:
-importance: 2
+importance: 3
 category: industry
 ---
 

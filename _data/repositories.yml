@@ -1,0 +1,12 @@
+github_users:
+  - andytai7
+
+repo_description_lines_max: 2
+
+github_repos:
+  - andytai7/GGenemy
+  - andytai7/ml-overdose-risk-assessment
+  - andytai7/flower_demo
+  - andytai7/huggingface_mlclassifier
+  - andytai7/cookbook
+  - andytai7/online-shoppers-purchasing-intention

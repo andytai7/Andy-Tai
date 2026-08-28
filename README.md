@@ -27,6 +27,6 @@ Pushing to `main` runs `.github/workflows/deploy.yml`, which builds the site and
 - `assets/img/` — profile photo, favicon, project images
 - `_data/socials.yml` — social links shown on the about page
 
-## Archived previous site
+## Previous site
 
-The previous Quarto-based site's static output remains in `docs/` until the Pages source is switched to `gh-pages`; delete `docs/` after the cutover. Full history is in git.
+The former Quarto-based site was fully replaced in commit `ff7daa5`; its history remains in git (`git checkout 16e0d66` to view the old source).

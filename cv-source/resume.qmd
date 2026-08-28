@@ -1,0 +1,95 @@
+---
+title: " "
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=0.5in
+      - top=0.4in
+      - bottom=0.4in
+    fontsize: 9pt
+    linestretch: 1.0
+    toc: false
+    number-sections: false
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+    include-in-header:
+      text: |
+        \pagenumbering{gobble}
+        \setlength{\parindent}{0pt}
+        \setlength{\parskip}{2pt}
+---
+
+# MAN YEUNG (ANDY) TAI, PhD
+
+**Postdoctoral Researcher, Federated Learning and Medical AI**
+
+Essen, Germany (Canadian citizen) | +1 (604) 319-3226 | Date of birth: October 25, 1994, Vancouver, Canada  
+andymytai@gmail.com | [TO CONFIRM: IKIM email]  
+andytai7.github.io/Andy-Tai/ | github.com/andytai7 | ORCID: 0000-0001-5262-8615
+
+## SUMMARY
+
+Postdoctoral researcher at the Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, working on federated learning for medical data in the FLIP-IT project with Prof. Jens Kleesiek, Prof. Michael Kamp, and Dr. Moon Kim. PhD in neuroscience (UBC), with a dissertation applying machine learning to addiction psychiatry. Author of 13 peer-reviewed publications (6 as first author). Two years as primary instructor in the UBC Master of Data Science program; contributed to a $1.4M Health Canada funded risk prediction platform as co-investigator.
+
+## TECHNICAL SKILLS
+
+**Programming and ML:** Python, R, SQL, JavaScript, scikit-learn, TensorFlow, PyTorch, BERT/transformers, NLP  
+**Federated learning:** Flower framework; privacy-preserving, communication-efficient distributed training  
+**LLM infrastructure:** Configuring agentic coding tools against a custom LiteLLM gateway; LLM-assisted pipelines  
+**Data and DevOps:** MongoDB, PostgreSQL, Docker, AWS (basics), Git; statistical modeling, meta-analysis, cumulative link mixed models
+
+## EXPERIENCE
+
+**Postdoctoral Researcher** | Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen | July 2026 - Present
+
+- Federated learning for medical data in the FLIP-IT project (NEXT.IN.NRW-funded), collaborating with Prof. Jens Kleesiek, Prof. Michael Kamp, and Dr. Moon Kim, and with the Kamp Lab at TU Dortmund.
+- Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework.
+- Developing privacy-preserving federated continual learning methods and an open-source benchmark toolkit; work in progress on activation and rank-code communication protocols with pre-registered control arms and explicit communication-bitrate accounting.
+
+**Postdoctoral Teaching and Learning Fellow** | UBC Master of Data Science and Department of Statistics | July 2024 - June 2026
+
+- Primary instructor for graduate courses including data visualization (DSCI 531), descriptive statistics and probability (DSCI 551), communication and argumentation (DSCI 542), and science communication (SCIE 300).
+- Co-author of The Regression Cookbook: Machine Learning and Stats Flavours, an open educational resource funded by the UBC OER Fund.
+- Built the statistical analysis framework for a TLEF-funded study of AI literacy in higher education (cumulative link mixed models; Stuart-Maxwell tests).
+- Curriculum development: PrairieLearn assessment and rubric design, Quarto-based course websites, lecture materials on data visualization (Altair, ggplot2), simulation, and AI literacy.
+- Evaluator for MDS capstone projects with industry partners including Clarius Mobile Health and VRIFY Technology (evaluation role). Capstone project supervision for partners including BC Children's Hospital, Vaccine Evaluation Center, Creative Destruction Lab, UBC Cybersecurity, and Nautical Crime Investigation Services; the vessel trajectory project led to a peer-reviewed publication (Engineering Applications of Artificial Intelligence, 2026).
+
+**Data Science Consultant (freelance, part-time)** | Clause Technology | July 2025 - October 2025
+
+- Built the HAVA maritime criminal detection system: automated web scraping, NLP-based incident classification, LLM-assisted similarity de-duplication (BERT/NER/fuzzy matching), Dockerized architecture with MongoDB/PostgreSQL.
+- Designed a computer vision and OCR pipeline for extracting structured data from complex PDF tables.
+
+**Data Scientist** | Concussion RX, Vancouver | April 2024 - September 2024
+
+- Machine learning and statistical modeling for concussion subtype analysis; clinical onboarding documentation using the ConcussionRX and Llama 3 toolchain.
+
+**Graduate Researcher (PhD)** | Addiction and Concurrent Disorders Group, UBC | 2019 - 2024
+
+- Developed machine learning models for overdose risk prediction within the RAMP platform, a $1.4M Health Canada SUAP-funded project (co-investigator role on grant-funded team).
+- Published first-author work on clinical decision support, e-health adherence, and medical AI communication; keynote presentations in Egypt and at Canadian national conferences.
+
+## EDUCATION
+
+**PhD, Neuroscience** | University of British Columbia, Vancouver | 2019 - 2024  
+Applied machine learning on addiction psychiatry. Dissertation: Machine Learning Applications in Addiction Risk Prediction.
+
+**Honours BSc, Neuroscience** | University of Toronto | 2012 - 2017  
+Minors in Environmental Science and Religion.
+
+## SELECTED PUBLICATIONS
+
+Tai, A.M.Y., et al. (2019). Machine learning and big data: Implications for disease modeling and therapeutic discovery in psychiatry. *Artificial Intelligence in Medicine*, 99, 101704. (First author; most-cited work)
+
+Tai, A.M.Y., et al. (2026). Rethinking AI in youth mental health: promise, perils, and ethical integration. *International Journal of Mental Health Systems*, 20(1). (First author)
+
+Tai, A.M.Y., et al. (2025). Utilizing Machine Learning for Early Intervention and Risk Management in the Opioid Overdose Crisis. *WIREs Computational Statistics*, 17(1), e70008. (First author)
+
+Sanghera, A., et al. (2026). Semi-supervised vessel trajectory analysis for unregulated fishing activity detection. *Engineering Applications of Artificial Intelligence*, 169, 113933. (Corresponding author; corrigendum published)
+
+Full list: 13 peer-reviewed journal articles, cited 389 times (Google Scholar, August 2026).
+
+## AWARDS
+
+Mitacs Globalink Research Award ($6,000, 2022-2023); UBC MDS Teaching Assistant Award (2021-2022); President's Academic Excellence Initiative PhD Award (2021-2023); Faculty of Medicine Graduate Award (2019).
