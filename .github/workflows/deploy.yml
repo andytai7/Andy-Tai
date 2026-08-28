@@ -60,6 +60,8 @@ on:
 permissions:
   contents: write
 
+concurrency: ci-${{ github.ref }}
+
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
