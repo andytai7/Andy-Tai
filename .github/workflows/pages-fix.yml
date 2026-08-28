@@ -10,6 +10,7 @@ jobs:
   pages:
     runs-on: ubuntu-latest
     permissions:
+      contents: write
       pages: write
     steps:
       - name: Point GitHub Pages at the prebuilt gh-pages branch
@@ -40,3 +41,15 @@ jobs:
           echo "== resulting Pages config =="
           curl -sH "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
             "https://api.github.com/repos/$REPO/pages" | python3 -c "import json,sys; d=json.load(sys.stdin); print('build_type:', d.get('build_type')); print('source:', d.get('source')); print('status:', d.get('status')); print('url:', d.get('html_url'))"
+      - name: Publish diagnostics to diag branch (for log-free debugging)
+        if: always()
+        run: |
+          mkdir -p diag
+          cp /tmp/pages_before.json diag/ 2>/dev/null || true
+          cp /tmp/pages_put.json diag/ 2>/dev/null || true
+          cp /tmp/pages_post.json diag/ 2>/dev/null || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "diag/pages-${{ github.run_id }}"
+          git add diag/ && git commit -m "pages diag ${{ github.run_id }}" || echo "nothing to commit"
+          git push origin "diag/pages-${{ github.run_id }}"
