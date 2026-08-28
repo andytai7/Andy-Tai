@@ -40,7 +40,7 @@ Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM
 | **Date and place of birth** | October 25, 1994; Vancouver, Canada |
 | **Languages** | English (native); Cantonese (fluent); Mandarin (conversational); German (beginner) |
 | **Phone** | +1 (604) 319-3226 |
-| **Email** | andymytai@gmail.com; **[TO CONFIRM: IKIM email]** |
+| **Email** | andymytai@gmail.com; **man.tai@uk-essen.de** |
 | **Address** | Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Girardetstr. 2, 45131 Essen, Germany |
 | **ORCID** | https://orcid.org/0000-0001-5262-8615 |
 | **Google Scholar** | https://scholar.google.com/citations?user=Cs0lX0sAAAAJ |
@@ -355,11 +355,4 @@ MDS capstone teams are listed under MDS Capstone Projects (DSCI 591), with roles
 | **Dr. Reinhard Michael Krausz** | UBC-Providence Leadership Chair for Addiction Research; Professor of Psychiatry; Director, Addiction Psychiatry; +1 (604) 649-9336; mkrausz@mail.ubc.ca |
 | **Dr. Raymond Ng** | Professor, Department of Computer Science, University of British Columbia; +1 (604) 822-2394; rng@cs.ubc.ca |
 | **Dr. Varada Kolhatkar** | Associate Professor of Teaching in Computer Science; Co-Director, Master of Data Science (Vancouver); kvarada@cs.ubc.ca |
-
----
-
-## Items to Verify
-| Item | Note |
-|---|---|
-| **IKIM email address** | Placeholder retained above; please confirm the uk-essen.de mailbox. |
-| **npj Digital Medicine submission** | The AI in youth mental health paper was located and verified: it is published in the *International Journal of Mental Health Systems* (2026), not npj Digital Medicine, and is listed above. No citation found for an npj Digital Medicine item under this authorship. |
+|
