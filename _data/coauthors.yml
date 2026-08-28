@@ -1,0 +1,7 @@
+# Coauthor metadata (optional).
+# Map a lowercase surname to name variants and a homepage URL; see
+# https://github.com/alshedivat/al-folio/wiki/Citations#co-author-information
+# Example:
+# "krausz":
+#   - firstname: ["Reinhard Michael", "R. M.", "R.M."]
+#     url: https://psychiatry.ubc.ca/person/reinhard-krausz/
