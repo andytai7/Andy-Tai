@@ -46,7 +46,6 @@ Postdoctoral researcher at the Institute for Artificial Intelligence in Medicine
 
 - Federated learning for medical data in the FLIP-IT project (NEXT.IN.NRW-funded), collaborating with Prof. Jens Kleesiek, Prof. Michael Kamp, and Dr. Moon Kim, and with the Kamp Lab at TU Dortmund.
 - Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework.
-- Developing privacy-preserving federated continual learning methods and an open-source benchmark toolkit; work in progress on activation and rank-code communication protocols with pre-registered control arms and explicit communication-bitrate accounting.
 
 **Postdoctoral Teaching and Learning Fellow** | UBC Master of Data Science and Department of Statistics | July 2024 - June 2026
 

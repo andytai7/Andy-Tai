@@ -64,8 +64,6 @@ My research focuses on federated and privacy-preserving learning and on trustwor
 | Project | Description | Status |
 |---|---|---|
 | **FLIP-IT** (IKIM, University Hospital Essen; NEXT.IN.NRW-funded) | Federated learning for medical data. Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework. Collaboration with Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute), and Dr. Moon Kim; collaboration with the Kamp Lab at TU Dortmund through FLIP-IT. | Ongoing |
-| **Brain-inspired federated continual learning for healthcare AI** | Privacy-preserving federated continual learning algorithms (federated synaptic consolidation; federated hippocampal replay; predictive coding FL) that allow clinical models to learn continuously from distributed hospital data without catastrophic forgetting; open-source federated continual learning benchmark toolkit. | Ongoing |
-| **Activation and rank-code communication protocols for federated learning** | Methods project on federated protocols in which clients communicate activation or rank codes (which units fire, and in what order) rather than model parameters. Pre-registered control arms and explicit communication-bitrate accounting. | Work in progress; no publication attached |
 
 ---
 

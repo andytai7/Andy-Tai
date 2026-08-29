@@ -44,11 +44,7 @@
       "startDate": "2026-07-01",
       "endDate": "",
       "summary": "Federated learning in the FLIP-IT project (NEXT.IN.NRW-funded) with Prof. Jens Kleesiek and Dr. Moon Kim; collaboration with Prof. Michael Kamp and the Kamp Lab, Lamarr Institute, TU Dortmund.",
-      "highlights": [
-        "FLIP-IT: federated chronic kidney disease risk prediction across general practice clinics using the Flower framework",
-        "Brain-inspired federated continual learning algorithms (federated synaptic consolidation, federated hippocampal replay, predictive coding FL); open-source federated continual learning benchmark toolkit",
-        "Activation and rank-code communication protocols for federated learning with explicit communication-bitrate accounting"
-      ]
+      "highlights": ["FLIP-IT: federated chronic kidney disease risk prediction across general practice clinics using the Flower framework"]
     },
     {
       "name": "University of British Columbia, Master of Data Science, Department of Statistics",
@@ -348,18 +344,6 @@
       "startDate": "2026-07-01",
       "endDate": "",
       "summary": "IKIM, University Hospital Essen; NEXT.IN.NRW-funded. Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework. Collaboration with Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute), and Dr. Moon Kim."
-    },
-    {
-      "name": "Brain-inspired federated continual learning for healthcare AI",
-      "startDate": "2026-07-01",
-      "endDate": "",
-      "summary": "Privacy-preserving federated continual learning algorithms (federated synaptic consolidation; federated hippocampal replay; predictive coding FL) that allow clinical models to learn continuously from distributed hospital data without catastrophic forgetting; open-source federated continual learning benchmark toolkit."
-    },
-    {
-      "name": "Activation and rank-code communication protocols for federated learning",
-      "startDate": "2026-07-01",
-      "endDate": "",
-      "summary": "Methods project on federated protocols in which clients communicate activation or rank codes (which units fire, and in what order) rather than model parameters. Pre-registered control arms and explicit communication-bitrate accounting. Work in progress; no publication attached."
     },
     {
       "name": "RAMP, Risk Assessment and Management Platform",
