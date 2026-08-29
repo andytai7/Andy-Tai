@@ -9,6 +9,7 @@ nav_order: 2
 <div class="post">
 
 {% if site.blog_name != blank or site.blog_description != blank %}
+
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>{{ site.blog_description }}</h2>

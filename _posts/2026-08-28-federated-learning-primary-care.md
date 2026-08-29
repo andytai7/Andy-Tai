@@ -20,9 +20,9 @@ The core mechanism is federated learning. Instead of moving data to the model, w
 
 Why go to this trouble? Three reasons:
 
-1. **The data is where the patients are.** Practice records capture the full trajectory of routine care, not just acute hospital episodes. For chronic diseases, that longitudinal view is the signal that matters.
-2. **Generalization.** A model trained across many independent practices learns from genuinely diverse populations and record-keeping styles, instead of one hospital's quirks.
-3. **Consent and compliance.** Keeping data in the practice sidesteps most of the data-transfer problem, but it requires its own legal and technical groundwork, which is a research question in its own right.
+1. The data is where the patients are. Practice records capture the full trajectory of routine care, not just acute hospital episodes. For chronic diseases, that longitudinal view is most of the signal that matters.
+2. Generalization. A model trained across many independent practices learns from genuinely diverse populations and record-keeping styles, instead of one hospital's quirks.
+3. Consent and compliance. Keeping data in the practice avoids most of the data-transfer problem, but it creates its own legal and technical groundwork, which is a research question in its own right.
 
 Concretely, FLIP-IT develops AI models for the early detection of complications in chronic diseases such as diabetes, COPD, and coronary heart disease, trained across this practice network. The work is organized into three work packages: **LEGAL** (privacy-compliant contract frameworks and guidelines for federated learning in outpatient care), **DATA** (the data infrastructure and quality side), and **NETWORK** (the federated training platform itself). Partners: [IKIM](https://ikim.uk-essen.de/) at University Medicine Essen, [docport GmbH](https://www.docport.de/), [Flower Labs](https://flower.ai/), and the physician associations [KVWL](https://www.kvwl.de/) and [KVNO](https://www.kvno.de/). We build on the Flower framework. I work on it with Prof. Jens Kleesiek and Dr. Moon Kim at IKIM, with project lead Dr. Nicolas Conze, and with Prof. Michael Kamp and his lab at TU Dortmund.
 

@@ -5,7 +5,7 @@
     "image": "",
     "email": "man.tai@uk-essen.de",
     "url": "https://andytai7.github.io/Andy-Tai",
-    "summary": "Federated and privacy-preserving learning and trustworthy AI in medicine: methods that let clinical models learn from distributed hospital data without centralizing patient records, with explicit accounting of communication cost, privacy, and reliability. Building on applied health machine learning, during my PhD in Neuroscience I applied ML to problems in addiction psychiatry, including overdose risk prediction and clinical decision support.",
+    "summary": "Federated and privacy-preserving machine learning for medicine: methods that let clinical models learn from distributed hospital data without centralizing patient records, while accounting for communication cost, privacy, and reliability. My background is applied health machine learning; during my PhD in Neuroscience I applied ML to problems in addiction psychiatry, including overdose risk prediction and clinical decision support.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -65,7 +65,7 @@
       "location": "Vancouver, BC, Canada",
       "startDate": "2025-07-01",
       "endDate": "2025-10-01",
-      "summary": "HAVA maritime criminal detection system: agentic system with automated web scraping; NLP-based incident classification; LLM-assisted similarity de-duplication; BERT/NER/fuzzy matching; dockerized architecture (MongoDB/PostgreSQL); cloud-ready. PDF table parsing pipeline (computer vision and OCR for complex tables; image preprocessing; variable extraction and standardization).",
+      "summary": "HAVA maritime criminal detection system: automated system with web scraping for incident reports; NLP-based incident classification; LLM-assisted similarity de-duplication; BERT/NER/fuzzy matching; dockerized architecture (MongoDB/PostgreSQL); cloud-ready. PDF table parsing pipeline (computer vision and OCR for complex tables; image preprocessing; variable extraction and standardization).",
       "highlights": []
     },
     {
@@ -355,86 +355,45 @@
       "name": "HAVA, Maritime criminal detection system",
       "startDate": "2025-07-01",
       "endDate": "2025-10-01",
-      "summary": "With Clause Technology and NCIS. Agentic scraping, NLP incident classification, BERT/NER/fuzzy matching entity resolution, LLM-assisted de-duplication, dockerized MongoDB/PostgreSQL deployment."
+      "summary": "With Clause Technology and NCIS. Automated web scraping, NLP incident classification, BERT/NER/fuzzy matching entity resolution, LLM-assisted de-duplication, dockerized MongoDB/PostgreSQL deployment."
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "keywords": [
-        "Python",
-        "R",
-        "JavaScript",
-        "React (basic)",
-        "SQL"
-      ]
+      "keywords": ["Python", "R", "JavaScript", "React (basic)", "SQL"]
     },
     {
       "name": "Federated Learning",
-      "keywords": [
-        "Flower framework",
-        "federated pipeline design",
-        "communication-efficient distributed training"
-      ]
+      "keywords": ["Flower framework", "federated pipeline design", "communication-efficient distributed training"]
     },
     {
       "name": "ML and Data Science",
-      "keywords": [
-        "scikit-learn",
-        "TensorFlow",
-        "PyTorch",
-        "BERT/transformers",
-        "NLP"
-      ]
+      "keywords": ["scikit-learn", "TensorFlow", "PyTorch", "BERT/transformers", "NLP"]
     },
     {
       "name": "LLM Infrastructure",
-      "keywords": [
-        "Agentic coding tools with custom LiteLLM gateway",
-        "LLM-assisted pipelines"
-      ]
+      "keywords": ["Agentic coding tools with custom LiteLLM gateway", "LLM-assisted pipelines"]
     },
     {
       "name": "Visualization & Notebooks",
-      "keywords": [
-        "JupyterLab",
-        "RStudio",
-        "VS Code",
-        "Altair",
-        "ggplot2"
-      ]
+      "keywords": ["JupyterLab", "RStudio", "VS Code", "Altair", "ggplot2"]
     },
     {
       "name": "Databases",
-      "keywords": [
-        "MongoDB",
-        "PostgreSQL",
-        "SQL"
-      ]
+      "keywords": ["MongoDB", "PostgreSQL", "SQL"]
     },
     {
       "name": "Cloud & DevOps",
-      "keywords": [
-        "Docker",
-        "AWS (basics)"
-      ]
+      "keywords": ["Docker", "AWS (basics)"]
     },
     {
       "name": "Statistics & Meta-analysis",
-      "keywords": [
-        "SPSS",
-        "SAS (basics)",
-        "Covidence",
-        "cumulative link mixed models",
-        "Stuart-Maxwell tests"
-      ]
+      "keywords": ["SPSS", "SAS (basics)", "Covidence", "cumulative link mixed models", "Stuart-Maxwell tests"]
     },
     {
       "name": "Course Infrastructure",
-      "keywords": [
-        "PrairieLearn assessment and rubric design",
-        "Quarto course websites"
-      ]
+      "keywords": ["PrairieLearn assessment and rubric design", "Quarto course websites"]
     }
   ],
   "languages": [

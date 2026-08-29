@@ -11,7 +11,7 @@ My current research at the **Institute for Artificial Intelligence in Medicine (
 
 ## Privacy by design
 
-Most medical AI is built by centralizing patient data. FLIP-IT inverts this: instead of moving the data to the model, we move the model to the data. Patient records stay on local systems at each practice, not as an afterthought but as the architecture.
+Most medical AI is built by centralizing patient data. FLIP-IT does the opposite: instead of moving the data to the model, we move the model to the data. Patient records stay on local systems at each practice.
 
 {% include figure.liquid loading="eager" path="assets/img/Flipit-privacy.png" title="FLIP-IT privacy design" class="img-fluid rounded z-depth-1" %}
 
@@ -21,7 +21,7 @@ Most medical AI is built by centralizing patient data. FLIP-IT inverts this: ins
 
 ## The federated training process
 
-Training runs in rounds. Each practice trains a copy of the model on its own patient records, only the model updates come back, a server aggregates them into one shared model, and the cycle repeats. No patient record is ever transferred.
+Training runs in rounds. Each practice trains a copy of the model on its own patient records. Only the model updates come back, a server aggregates them into one shared model, and the cycle repeats. No patient record is ever transferred.
 
 {% include figure.liquid loading="eager" path="assets/img/Flipit-process.png" title="FLIP-IT federated training process" class="img-fluid rounded z-depth-1" %}
 
