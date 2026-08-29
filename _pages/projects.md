@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Machine learning for clinical decision support, data science education, and applied AI across domains.
+description: Research and consulting projects in machine learning for medicine, federated learning, and data science education.
 nav: true
 nav_order: 4
 display_categories: [research, industry]

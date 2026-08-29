@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: GitHub profile and selected open-source repositories, the GGenemy R package, overdose risk prediction models, and federated learning demos.
+description: GitHub profile and selected open-source repositories, including the GGenemy R package, overdose risk prediction models, and federated learning demos.
 nav: true
 nav_order: 6
 ---

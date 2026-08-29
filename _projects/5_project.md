@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Regression Cookbook (Stats Flavours)"
-description: "Open-access textbook bridging machine learning and statistics, with dual-language Python and R implementations, funded by the UBC OER Fund."
+description: "Open-access textbook that teaches regression in both the machine learning and statistics idioms, with Python and R code side by side. Funded by the UBC OER Fund."
 img: assets/img/favicon.png
 importance: 5
 category: research
@@ -20,4 +20,4 @@ Most regression content forces a choice: either the scikit-learn/cross-validatio
 
 **Links:** [book source (GitHub)](https://github.com/alexrod61/regression-cookbook) · [rendered chapters](https://alexrod61.github.io/regression-cookbook/) · [toy dataset](https://github.com/andytai7/cookbook).
 
-The project grew out of two years as primary instructor across the [UBC Master of Data Science](https://masterdatascience.ubc.ca/) (DSCI), statistics (STAT), and science communication curricula, the same material serves DSCI 551 (Descriptive Statistics and Probability), DSCI 100, and STAT 302 cohorts with very different mathematical backgrounds.
+The project grew out of two years as primary instructor across the [UBC Master of Data Science](https://masterdatascience.ubc.ca/) (DSCI), statistics (STAT), and science communication curricula. The same material serves DSCI 551 (Descriptive Statistics and Probability), DSCI 100, and STAT 302 cohorts with very different mathematical backgrounds.
