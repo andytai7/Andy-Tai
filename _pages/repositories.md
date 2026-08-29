@@ -27,13 +27,13 @@ Keep in sync with al-org-dev/al-folio-core \_includes/repository/repo_user.liqui
         <img
           class="only-light w-100"
           alt="{{ user }}"
-          src="{{ stats_url }}/api/?username={{ user }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_icons=true&owner_affiliation=OWNER,COLLABORATOR,ORGANIZATION_MEMBER"
+          src="{{ stats_url }}/api/?username={{ user }}&theme=transparent&locale={{ lang }}&show_icons=true&rank_icon=github&include_all_commits=true&owner_affiliation=OWNER,COLLABORATOR,ORGANIZATION_MEMBER"
           onerror="this.closest('.repo').style.display='none'"
         >
         <img
           class="only-dark w-100"
           alt="{{ user }}"
-          src="{{ stats_url }}/api/?username={{ user }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_icons=true&owner_affiliation=OWNER,COLLABORATOR,ORGANIZATION_MEMBER"
+          src="{{ stats_url }}/api/?username={{ user }}&theme=dark&locale={{ lang }}&show_icons=true&rank_icon=github&include_all_commits=true&owner_affiliation=OWNER,COLLABORATOR,ORGANIZATION_MEMBER"
           onerror="this.closest('.repo').style.display='none'"
         >
       </a>
