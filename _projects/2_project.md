@@ -12,8 +12,7 @@ While consulting with **Clause Technology**, in collaboration with **NCIS**, I b
 - **Automated ingestion:** web scraping of incident reports with NLP-based classification
 - **Entity recognition:** BERT/NER pipelines for vessels, locations, and organizations, with LLM-assisted similarity de-duplication
 - **Deployment:** dockerized architecture on MongoDB/PostgreSQL
-- **Impact:** reduced manual triage time by 65%
 
-On the same engagement I also developed a PDF table parsing pipeline  (computer vision and OCR for complex table structures, rotated tables, multi-table pages, with image preprocessing for OCR and variable extraction/standardization).
+On the same engagement I also developed a PDF table parsing pipeline (computer vision and OCR for complex table structures, rotated tables, multi-table pages, with image preprocessing for OCR and variable extraction/standardization).
 
 The project builds on a capstone project on vessel trajectory analysis that I supervised with NCIS. The methods carry over directly from my clinical work: multi-source data engineering, class-imbalanced prediction, and human-in-the-loop triage.

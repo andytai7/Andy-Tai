@@ -32,8 +32,9 @@ them until Andy resolves them.
   (Aug 2026) as a weak headline metric on an imbalanced cohort. If
   it returns anywhere, it returns with the AUROC context, not alone.
 - Demo: https://andytai7-odclassifiers.hf.space
-- [CHECK: "over 17,000 lives since 2016" on the RAMP project page.
-  Verify year and total against BCCDC before next deploy.]
+- Mortality copy is "thousands of lives every year since 2016" by
+  policy (Andy, Aug 31, 2026): no fixed count on the site because the
+  number rises each year.
 
 ## Teaching (UBC, Jul 2024 - Jun 2026)
 
@@ -69,8 +70,10 @@ them until Andy resolves them.
 ## Industry work
 
 - Clause Technology (Jul - Oct 2025), HAVA maritime criminal
-  detection with NCIS. [CHECK: "65% reduction in manual triage time"
-  is unverified; supply the measurement basis or remove.]
+  detection with NCIS. The "65% reduction in manual triage time"
+  figure was fabricated (Andy, Aug 31, 2026) and was removed from
+  the site; do not restore it without a documented measurement
+  basis.
 - NAI Innovations, analyst, since Apr 2024.
 - Concussion RX, data scientist, Apr - Sep 2024, concussion subtype
   analysis.
@@ -83,17 +86,13 @@ them until Andy resolves them.
   corresponding author (EAAI 2026). Cited 389 times (Google Scholar,
   August 2026; update with date when refreshed).
 - EAAI vessel-trajectory paper: vol. 169, 113933 (2026),
-  doi:10.1016/j.engappai.2026.113933. Corrigendum: vol. 172, 114387
-  (2026), doi:10.1016/j.engappai.2026.114387. The publications page
-  should point at both. Resolved Aug 2026: the corrigendum was
-  published May 2026, after the Jan 15, 2026 news post, so that
-  announcement needed no change. NOTE: the corrigendum's author
-  list (CrossRef) gives full names: Singh, Paramveer / Chu, Elaine /
-  Leem, Sumin / Li, Ruizhi / Ghattan, Sogol; the parent entry in
-  papers.bib lists different short forms (Singh, Prabhnoor; Chu,
-  Eric; Li, R.; Ghattan, Surbhi; Leem, S.). The corrigendum very
-  likely corrected author metadata. [CHECK: align the parent
-  entry's author names with the corrected record.]
+  doi:10.1016/j.engappai.2026.113933. Author names in papers.bib
+  were corrected Aug 31, 2026 to the publisher-registered list
+  (Singh, Paramveer; Chu, Elaine; Leem, Sumin; Li, Ruizhi; Ghattan,
+  Sogol). A corrigendum exists (vol. 172, 114387,
+  doi:10.1016/j.engappai.2026.114387) but Andy does not want it
+  anywhere on the site (Aug 31, 2026); never add it without his
+  explicit request.
 - Overdose classifier preprint: Research Square,
   doi:10.21203/rs.3.rs-7380471/v1; revised manuscript under review
   at BMC Public Health.

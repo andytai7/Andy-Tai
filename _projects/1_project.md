@@ -8,7 +8,7 @@ category: research
 related_publications: true
 ---
 
-The opioid overdose crisis in British Columbia has claimed over 17,000 lives since 2016. Care for people at risk is still often fragmented and reactive. Millions of health records hold patterns that conventional statistical methods cannot detect, clinicians need risk estimates at the point of care rather than retrospective analyses, and uniform interventions do not account for individual risk profiles.
+The opioid overdose crisis in British Columbia has claimed thousands of lives every year since 2016. Care for people at risk is still often fragmented and reactive. Millions of health records hold patterns that conventional statistical methods cannot detect, clinicians need risk estimates at the point of care rather than retrospective analyses, and uniform interventions do not account for individual risk profiles.
 
 As Co-Investigator on the **Risk Assessment and Management Platform (RAMP)**, a $1,407,790 Health Canada Substance Use and Addictions Program project (2019-2024), I developed the machine learning models at RAMP's core, using the **BC Provincial Overdose Cohort** (2015-2019, N = 36,679 individuals):
 
