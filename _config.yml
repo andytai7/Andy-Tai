@@ -219,6 +219,7 @@ exclude:
   - bin/
   - CLAUDE.md
   - Dockerfile
+  - FACTS.md
   - docker-compose.yml
   - docker-compose-slim.yml
   - docs/

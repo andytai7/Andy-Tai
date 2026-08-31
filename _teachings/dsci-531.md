@@ -9,4 +9,4 @@ location: UBC, Vancouver
 course_id: dsci-531
 ---
 
-Includes AI-resilient assessment design and responsible GenAI-use frameworks developed during my UBC fellowship.
+The course also covers AI-resilient assessment design and responsible GenAI-use frameworks developed during my UBC fellowship.

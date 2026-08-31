@@ -18,7 +18,7 @@ I work on the opposite approach. [FLIP-IT](https://www.flipit-research.network/)
 
 The core mechanism is federated learning. Instead of moving data to the model, we move the model to the data. Each practice trains a copy of the model on its own patient records; only the model updates come back; a server aggregates them into one shared model; and this repeats for many rounds. No patient record ever leaves the practice. This is what the project calls privacy by design: the data stays on local systems not as an afterthought, but as the architecture.
 
-Why go to this trouble? Three reasons:
+Three reasons justify going to this trouble:
 
 1. The data is where the patients are. Practice records capture the full trajectory of routine care, not just acute hospital episodes. For chronic diseases, that longitudinal view is most of the signal that matters.
 2. Generalization. A model trained across many independent practices learns from genuinely diverse populations and record-keeping styles, instead of one hospital's quirks.

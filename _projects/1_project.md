@@ -8,13 +8,13 @@ category: research
 related_publications: true
 ---
 
-The opioid overdose crisis in British Columbia has claimed **over 17,000 lives since 2016**. Care for people at risk is still often fragmented and reactive. Millions of health records hold patterns that conventional statistical methods cannot detect, clinicians need risk estimates at the point of care rather than retrospective analyses, and uniform interventions do not account for individual risk profiles.
+The opioid overdose crisis in British Columbia has claimed over 17,000 lives since 2016. Care for people at risk is still often fragmented and reactive. Millions of health records hold patterns that conventional statistical methods cannot detect, clinicians need risk estimates at the point of care rather than retrospective analyses, and uniform interventions do not account for individual risk profiles.
 
-As Co-Investigator on the **Risk Assessment and Management Platform (RAMP)**, a **$1,407,790 Health Canada Substance Use and Addictions Program project (2019-2024)**, I developed the machine learning models at RAMP's core, using the **BC Provincial Overdose Cohort** (2015-2019, N = 36,679 individuals):
+As Co-Investigator on the **Risk Assessment and Management Platform (RAMP)**, a $1,407,790 Health Canada Substance Use and Addictions Program project (2019-2024), I developed the machine learning models at RAMP's core, using the **BC Provincial Overdose Cohort** (2015-2019, N = 36,679 individuals):
 
 - **Data engineering:** Processing multi-source health records, handling missing data, and addressing severe class imbalance
 - **Model development:** Random Forest, XGBoost, and Support Vector Machine classifiers over 48 clinical features
-- **Performance:** **88.77% accuracy** and **91.12% AUROC** for general overdose prediction, above the benchmarks reported in related work
+- **Performance:** 91.12% AUROC for general overdose prediction, above the benchmarks reported in related work.
 
 **Interactive demonstration:** the overdose risk classifier is deployed as a [live web application](https://andytai7-odclassifiers.hf.space).
 
@@ -28,6 +28,6 @@ As Co-Investigator on the **Risk Assessment and Management Platform (RAMP)**, a 
 
 ## Outcomes and next steps
 
-Health Canada SUAP funding concluded in 2024 with the validated prediction platform and the clinical decision support architecture delivered. The next steps I see for this work are **causal inference** for treatment optimization, **real-time multimodal data integration** (wearables, patient-reported outcomes, and social determinants), **algorithmic fairness** across demographic groups, and **implementation science** for clinical translation.
+Health Canada SUAP funding concluded in 2024 with the validated prediction platform and the clinical decision support architecture delivered. The next steps I see for this work are causal inference for treatment optimization, real-time multimodal data integration (wearables, patient-reported outcomes, and social determinants), algorithmic fairness across demographic groups, and implementation science for clinical translation.
 
 The [dissertation and related publications](/Andy-Tai/publications/) provide the background for this work: our systematic reviews and meta-analyses covered machine learning for opioid-related outcomes in more than 50 studies.

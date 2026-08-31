@@ -9,9 +9,9 @@ category: research
 
 ## The Regression Cookbook: Machine Learning and Stats Flavours
 
-An **open educational resource**, funded by the [UBC OER Fund](https://oer.open.ubc.ca/), for teaching regression across two academic cultures that often speak past each other: the machine-learners and the statisticians.
+An open educational resource, funded by the [UBC OER Fund](https://oer.open.ubc.ca/), for teaching regression across two academic cultures that often speak past each other: the machine-learners and the statisticians.
 
-Most regression content forces a choice: either the scikit-learn/cross-validation idiom of machine learning or the inference-and-estimators idiom of statistics. Working data scientists need both. The Cookbook presents each method **once, in both dialects**, same data, both implementation languages, and a common terminology glossary:
+Most regression content forces a choice: either the scikit-learn/cross-validation idiom of machine learning or the inference-and-estimators idiom of statistics. Working data scientists need both. The Cookbook presents each method once, in both dialects, same data, both implementation languages, and a common terminology glossary:
 
 - **Dual-language code**: every worked example runs in **Python** and **R**, side by side, so readers can translate fluently between team conventions.
 - **Shared vocabulary**: a deliberate common lexicon (e.g., "regularization" ↔ "shrinkage", "training set" ↔ "estimation sample") so statisticians and ML engineers stop talking past each other in code review.

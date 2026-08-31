@@ -1,4 +1,4 @@
-# Personal Website — Andy Man Yeung Tai
+# Personal Website | Andy Man Yeung Tai
 
 Portfolio and academic website: **https://andytai7.github.io/Andy-Tai/**
 
@@ -18,14 +18,14 @@ Pushing to `main` runs `.github/workflows/deploy.yml`, which builds the site and
 
 ## Content
 
-- `_pages/` — about, publications, projects, CV, news pages
-- `_projects/` — project cards + detail pages
-- `_bibliography/papers.bib` — publications (rendered by jekyll-scholar)
-- `_news/` — homepage announcements
-- `assets/json/resume.json` — structured CV data (JSON Resume) for the CV page
-- `assets/pdf/` — downloadable `cv.pdf` and `resume.pdf`
-- `assets/img/` — profile photo, favicon, project images
-- `_data/socials.yml` — social links shown on the about page
+- `_pages/` : about, publications, projects, CV, news pages
+- `_projects/` : project cards + detail pages
+- `_bibliography/papers.bib` : publications (rendered by jekyll-scholar)
+- `_news/` : homepage announcements
+- `assets/json/resume.json` : structured CV data (JSON Resume) for the CV page
+- `assets/pdf/` : downloadable `cv.pdf` and `resume.pdf`
+- `assets/img/` : profile photo, favicon, project images
+- `_data/socials.yml` : social links shown on the about page
 
 ## Previous site
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I completed my PhD in Neuroscience at UBC. My dissertation, *A machine learning approach to overdose risk assessment*, develops machine learning models for overdose risk prediction on the BC Provincial Overdose Cohort.
+I completed my PhD in Neuroscience at UBC. My dissertation, *[Machine Learning Applications in Addiction Risk Prediction](http://hdl.handle.net/2429/87759)*, develops machine learning models for overdose risk prediction on the BC Provincial Overdose Cohort.
