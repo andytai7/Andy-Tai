@@ -59,6 +59,10 @@ them until Andy resolves them.
   across general practice clinics, Flower framework. With
   Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute
   and TU Dortmund), Dr. Moon Kim (IKIM).
+- Direct supervisor: Prof. Michael Kamp (Kamp Lab, Lamarr
+  Institute for Machine Learning and Artificial Intelligence / TU
+  Dortmund University). Andy's affiliation is IKIM plus the Kamp
+  Lab (Lamarr Institute / TU Dortmund University).
 - Broader aim: early detection of complications in diabetes, COPD,
   coronary heart disease.
 - Work packages: LEGAL, DATA, NETWORK.

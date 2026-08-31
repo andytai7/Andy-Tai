@@ -31,7 +31,7 @@ andytai7.github.io/Andy-Tai/ | github.com/andytai7 | ORCID: 0000-0001-5262-8615
 
 ## SUMMARY
 
-Postdoctoral researcher at the Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, working on federated learning for medical data in the FLIP-IT project with Prof. Jens Kleesiek, Prof. Michael Kamp, and Dr. Moon Kim. PhD in neuroscience (UBC), with a dissertation applying machine learning to addiction psychiatry. Author of 13 peer-reviewed publications (6 as first author). Two years as primary instructor in the UBC Master of Data Science program; contributed to a $1.4M Health Canada funded risk prediction platform as co-investigator.
+Postdoctoral researcher at the Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and the Kamp Lab (Lamarr Institute / TU Dortmund University), working on federated learning for medical data in the FLIP-IT project, supervised by Prof. Michael Kamp, with Prof. Jens Kleesiek and Dr. Moon Kim. PhD in neuroscience (UBC), with a dissertation applying machine learning to addiction psychiatry. Author of 13 peer-reviewed publications (6 as first author). Two years as primary instructor in the UBC Master of Data Science program; contributed to a $1.4M Health Canada funded risk prediction platform as co-investigator.
 
 ## TECHNICAL SKILLS
 
@@ -42,9 +42,9 @@ Postdoctoral researcher at the Institute for Artificial Intelligence in Medicine
 
 ## EXPERIENCE
 
-**Postdoctoral Researcher** | Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen | July 2026 - Present
+**Postdoctoral Researcher** | Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute / TU Dortmund University | July 2026 - Present
 
-- Federated learning for medical data in the FLIP-IT project (NEXT.IN.NRW-funded), collaborating with Prof. Jens Kleesiek, Prof. Michael Kamp, and Dr. Moon Kim, and with the Kamp Lab at TU Dortmund.
+- Federated learning for medical data in the FLIP-IT project (NEXT.IN.NRW-funded), supervised by Prof. Michael Kamp (Kamp Lab, Lamarr Institute / TU Dortmund University), with Prof. Jens Kleesiek and Dr. Moon Kim (IKIM).
 - Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework.
 
 **Postdoctoral Teaching and Learning Fellow** | UBC Master of Data Science and Department of Statistics | July 2024 - June 2026

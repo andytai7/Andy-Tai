@@ -7,7 +7,7 @@ first_name: Andy
 middle_name: Man Yeung
 last_name: Tai
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Postdoctoral researcher working on federated and privacy-preserving machine learning for medicine at the Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen. PhD in Neuroscience, University of British Columbia.
+  Postdoctoral researcher working on federated and privacy-preserving machine learning for medicine at the Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and the Kamp Lab at the Lamarr Institute and TU Dortmund University. PhD in Neuroscience, University of British Columbia.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -133,8 +133,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:   # no header bar; the nav label and post titles carry the blog identity. blog_name will be displayed in your blog page when set.
-blog_description: 
+blog_name: # no header bar; the nav label and post titles carry the blog identity. blog_name will be displayed in your blog page when set.
+blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

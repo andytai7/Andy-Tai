@@ -27,7 +27,7 @@ format:
 
 # Curriculum Vitae
 **Man Yeung (Andy) Tai, PhD**  
-Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen
+Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute for Machine Learning and Artificial Intelligence and TU Dortmund University
 
 ---
 
@@ -35,7 +35,7 @@ Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM
 | Field | Details |
 |---|---|
 | **Name** | Man Yeung Tai (Andy) |
-| **Current position** | Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Essen, Germany (Jul 2026 – Present) |
+| **Current position** | Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute for Machine Learning and Artificial Intelligence and TU Dortmund University, Essen, Germany (Jul 2026 – Present) |
 | **Nationality** | Canadian |
 | **Date and place of birth** | October 25, 1994; Vancouver, Canada |
 | **Languages** | English (native); Cantonese (fluent); Mandarin (conversational); German (beginner) |
@@ -63,7 +63,7 @@ My research focuses on federated and privacy-preserving learning and on trustwor
 ## Current Research Projects
 | Project | Description | Status |
 |---|---|---|
-| **FLIP-IT** (IKIM, University Hospital Essen; NEXT.IN.NRW-funded) | Federated learning for medical data. Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework. Collaboration with Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute), and Dr. Moon Kim; collaboration with the Kamp Lab at TU Dortmund through FLIP-IT. | Ongoing |
+| **FLIP-IT** (IKIM, University Hospital Essen; NEXT.IN.NRW-funded) | Federated learning for medical data. Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework. Supervised by Prof. Michael Kamp (Kamp Lab, Lamarr Institute / TU Dortmund University), with Prof. Jens Kleesiek (IKIM) and Dr. Moon Kim (IKIM). | Ongoing |
 
 ---
 
@@ -86,7 +86,7 @@ My research focuses on federated and privacy-preserving learning and on trustwor
 ## Academic Appointments and Professional Experience
 | Dates | Role and organization | Notes |
 |---|---|---|
-| **Jul 2026 – Present** | **Postdoctoral Researcher** – Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Essen, Germany | Federated learning in the FLIP-IT project (NEXT.IN.NRW-funded) with Prof. Jens Kleesiek and Dr. Moon Kim; collaboration with Prof. Michael Kamp and the Kamp Lab, Lamarr Institute, TU Dortmund. See Current Research Projects. |
+| **Jul 2026 – Present** | **Postdoctoral Researcher** – Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute / TU Dortmund University | Federated learning in the FLIP-IT project (NEXT.IN.NRW-funded) with Prof. Jens Kleesiek and Dr. Moon Kim, supervised by Prof. Michael Kamp. See Current Research Projects. |
 | **Jul 2024 – Jun 2026** | **Postdoctoral Teaching and Learning Fellow** – Master of Data Science (MDS) and Department of Statistics, UBC | Two-year appointment, completed June 2026. Primary instructor across MDS, statistics, and science courses. Curriculum development: PrairieLearn assessment and rubric design; Quarto-based course websites; lecture materials on data visualization (Altair, ggplot2), simulation, and AI literacy. Evaluator for MDS capstone presentations with industry partners including Clarius Mobile Health and VRIFY Technology (evaluation role, not supervision). Department of Statistics EDI Seminar Series coordinator; SEDI Committee postdoctoral representative (Sep 2025 – Jun 2026). |
 | **Jul 2025 – Oct 2025** | **Data Science Consultant (freelance, part-time)** – Clause Technology | HAVA maritime criminal detection system: agentic system with automated web scraping; NLP-based incident classification; LLM-assisted similarity de-duplication; BERT/NER/fuzzy matching; Dockerized architecture (MongoDB/PostgreSQL); cloud-ready. PDF table parsing (in development): computer vision and OCR pipeline for complex tables (rotations, multi-table pages); image preprocessing for OCR; variable extraction and standardization. |
 | **Apr 2024 – Present** | **Analyst** – NAI Innovations (Vancouver) | Evaluation of ML-driven startups in medical cannabis symptom management; algorithmic performance analysis; strategy for AI in neuroscience and psychiatry. |
