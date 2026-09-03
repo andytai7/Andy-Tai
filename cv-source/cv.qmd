@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 author: "Man Yeung (Andy) Tai"
-date: "Last updated: 28 August 2026"
+date: "Last updated: 3 September 2026"
 format:
   pdf:
     documentclass: article
@@ -27,7 +27,7 @@ format:
 
 # Curriculum Vitae
 **Man Yeung (Andy) Tai, PhD**  
-Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute for Machine Learning and Artificial Intelligence and TU Dortmund University
+Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen
 
 ---
 
@@ -35,12 +35,12 @@ Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM
 | Field | Details |
 |---|---|
 | **Name** | Man Yeung Tai (Andy) |
-| **Current position** | Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute for Machine Learning and Artificial Intelligence and TU Dortmund University, Essen, Germany (Jul 2026 – Present) |
+| **Current position** | Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Essen, Germany (Jul 2026 – Present) |
 | **Nationality** | Canadian |
 | **Date and place of birth** | October 25, 1994; Vancouver, Canada |
 | **Languages** | English (native); Cantonese (fluent); Mandarin (conversational); German (beginner) |
 | **Phone** | +1 (604) 319-3226 |
-| **Email** | andymytai@gmail.com; **man.tai@uk-essen.de** |
+| **Email** | andymytai@gmail.com; man.tai@uk-essen.de (IKIM) |
 | **Address** | Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Girardetstr. 2, 45131 Essen, Germany |
 | **ORCID** | https://orcid.org/0000-0001-5262-8615 |
 | **Google Scholar** | https://scholar.google.com/citations?user=Cs0lX0sAAAAJ |
@@ -63,7 +63,9 @@ My research focuses on federated and privacy-preserving learning and on trustwor
 ## Current Research Projects
 | Project | Description | Status |
 |---|---|---|
-| **FLIP-IT** (IKIM, University Hospital Essen; NEXT.IN.NRW-funded) | Federated learning for medical data. Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework. Supervised by Prof. Michael Kamp (Kamp Lab, Lamarr Institute / TU Dortmund University), with Prof. Jens Kleesiek (IKIM) and Dr. Moon Kim (IKIM). | Ongoing |
+| **FLIP-IT** (IKIM, University Hospital Essen; NEXT.IN.NRW-funded) | Federated learning for medical data. Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework. Collaboration with Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute), and Dr. Moon Kim; collaboration with the Kamp Lab at TU Dortmund through FLIP-IT. | Ongoing |
+| **Brain-inspired federated continual learning for healthcare AI** | Privacy-preserving federated continual learning algorithms (federated synaptic consolidation; federated hippocampal replay; predictive coding FL) that allow clinical models to learn continuously from distributed hospital data without catastrophic forgetting; open-source federated continual learning benchmark toolkit. | Ongoing |
+| **Activation and rank-code communication protocols for federated learning** | Methods project on federated protocols in which clients communicate activation or rank codes (which units fire, and in what order) rather than model parameters. Pre-registered control arms and explicit communication-bitrate accounting. | Work in progress; no publication attached |
 
 ---
 
@@ -86,7 +88,7 @@ My research focuses on federated and privacy-preserving learning and on trustwor
 ## Academic Appointments and Professional Experience
 | Dates | Role and organization | Notes |
 |---|---|---|
-| **Jul 2026 – Present** | **Postdoctoral Researcher** – Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute / TU Dortmund University | Federated learning in the FLIP-IT project (NEXT.IN.NRW-funded) with Prof. Jens Kleesiek and Dr. Moon Kim, supervised by Prof. Michael Kamp. See Current Research Projects. |
+| **Jul 2026 – Present** | **Postdoctoral Researcher** – Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, Essen, Germany | Federated learning in the FLIP-IT project (NEXT.IN.NRW-funded) with Prof. Jens Kleesiek and Dr. Moon Kim; collaboration with Prof. Michael Kamp and the Kamp Lab, Lamarr Institute, TU Dortmund. See Current Research Projects. |
 | **Jul 2024 – Jun 2026** | **Postdoctoral Teaching and Learning Fellow** – Master of Data Science (MDS) and Department of Statistics, UBC | Two-year appointment, completed June 2026. Primary instructor across MDS, statistics, and science courses. Curriculum development: PrairieLearn assessment and rubric design; Quarto-based course websites; lecture materials on data visualization (Altair, ggplot2), simulation, and AI literacy. Evaluator for MDS capstone presentations with industry partners including Clarius Mobile Health and VRIFY Technology (evaluation role, not supervision). Department of Statistics EDI Seminar Series coordinator; SEDI Committee postdoctoral representative (Sep 2025 – Jun 2026). |
 | **Jul 2025 – Oct 2025** | **Data Science Consultant (freelance, part-time)** – Clause Technology | HAVA maritime criminal detection system: agentic system with automated web scraping; NLP-based incident classification; LLM-assisted similarity de-duplication; BERT/NER/fuzzy matching; Dockerized architecture (MongoDB/PostgreSQL); cloud-ready. PDF table parsing (in development): computer vision and OCR pipeline for complex tables (rotations, multi-table pages); image preprocessing for OCR; variable extraction and standardization. |
 | **Apr 2024 – Present** | **Analyst** – NAI Innovations (Vancouver) | Evaluation of ML-driven startups in medical cannabis symptom management; algorithmic performance analysis; strategy for AI in neuroscience and psychiatry. |
@@ -154,7 +156,7 @@ My research focuses on federated and privacy-preserving learning and on trustwor
 
 ## Publications: Peer-Reviewed Journal Articles
 
-13 peer-reviewed journal articles, 6 as first author and 1 as corresponding author (marked *). Cited 389 times (Google Scholar, August 2026). Consistent format: Authors. Title. Journal, volume(issue), pages or article number. DOI.
+13 peer-reviewed journal articles, 6 as first author and 1 as corresponding author (marked *). Cited 392 times (Google Scholar, September 2026). Consistent format: Authors. Title. Journal, volume(issue), pages or article number. DOI.
 
 | Year | Citation |
 |---|---|
@@ -191,7 +193,10 @@ My research focuses on federated and privacy-preserving learning and on trustwor
 ---
 
 ## Manuscript Review Activities
-| Manuscript title | Journal | Date |
+
+37 completed reviews of 29 manuscripts for 11 journals. Review dates cross-checked against the ORCID record (0000-0001-5262-8615), September 2026. Review rounds of the same manuscript are grouped; titles not made public by the journal while under review are withheld.
+
+| Manuscript title | Journal | Review rounds |
 |---|---|---|
 | Use of Voice Features from Smartphones for Monitoring Depressive Disorders: Scoping Review | Digital Health | Mar 2024 |
 | Exploring student preferences for implementing a digital mental health intervention in a university setting: Qualitative study within a randomised controlled trial | Digital Health | Jul 2024 |
@@ -200,16 +205,28 @@ My research focuses on federated and privacy-preserving learning and on trustwor
 | Ethical and Social Issues in Prediction of Risk of Severe Mental Illness: A Scoping Review | BMC Psychiatry | Jan 2025 |
 | DepGLM: Depression Degree Recognition on Social Media Based on Large Language Models | Digital Health | Mar 2025 |
 | Mediating Effect of Depression on the Relationship of Short Video Use and Insomnia Symptoms Among Rural Adults: A Representative Cross-Sectional Survey in Shandong Province | Digital Health | Apr 2025 |
-| Technology for Mental Health: Reflections on Scope and Future Directions in Institutes of Higher Education in India | Online Journal of Public Health Informatics | Jun 2025 |
 | Objective Screening of Adolescent Major Depressive Disorder Using Computerized Cognitive Markers: A LASSO Regression Model Validated Against PHQ-9 | BMC Psychiatry | Jun 2025 |
-| A Bibliometric and Visual Analysis of Artificial Intelligence Applications in Depression Detection and Diagnosis: Trends and Future Directions | JMIR Mental Health | Jul 2025 |
+| Technology for Mental Health: Reflections on Scope and Future Directions in Institutes of Higher Education in India | Online Journal of Public Health Informatics | Jul 2025; Oct 2025 |
 | Mental health problems raise the odds of cognitive impairment in COVID-19 survivors | Journal of Evidence Based Medicine | Jul 2025 |
-| Using smartphone-tracked behavioural markers to recognize depression and anxiety symptoms: Digital phenotyping in the Netherlands Study of Depression and Anxiety | JMIR Mental Health | Aug 2025 |
-| Development and Validation of a Machine Learning-Based Predictive Model for Anxiety Disorders in Patients with Premature Ejaculation: A Multicenter Prospective Study | JMIR Formative Research | Aug 2025 |
-| A Machine-Learning-Derived Online Prediction Platform for Rapid Decline in Kidney Function Risk among Community-Dwelling Middle-Aged and Older Adults: a Nationwide Cohort Study | JMIR Aging | Sep 2025 |
-| Classification of Tourette's Syndrome Using Cortico-Striatal-Thalamic-Cortical Circuit Segmentation and Convolutional Neural Networks: A Machine Learning Study | JMIR AI | Sep 2025 |
+| AI Applications in Depression Detection and Diagnosis: Bibliometric and Visual Analysis of Trends and Future Directions | JMIR Mental Health | Jul 2025; Sep 2025 |
+| Using Smartphone-Tracked Behavioural Markers to Recognize Depression and Anxiety Symptoms: Digital Phenotyping in the Netherlands Study of Depression and Anxiety | JMIR Mental Health | Aug 2025 |
+| Development and Validation of a Machine Learning-Based Predictive Model for Anxiety Disorders in Patients with Premature Ejaculation: A Multicenter Prospective Study | JMIR Formative Research | Sep 2025; Nov 2025 |
+| A Machine-Learning-Derived Online Prediction Platform for Rapid Decline in Kidney Function Risk among Community-Dwelling Middle-Aged and Older Adults: a Nationwide Cohort Study | JMIR Aging | Sep 2025; Dec 2025 |
+| Classification of Tourette's Syndrome Using Cortico-Striatal-Thalamic-Cortical Circuit Segmentation and Convolutional Neural Networks: A Machine Learning Study | JMIR AI | Sep 2025; Jan 2026 |
 | Predicting Suicidal Ideation Among U.S. Adolescents Using Supervised Machine Learning and AI-Driven Deep Learning: Algorithm Development and Validation Study | JMIR AI | Oct 2025 |
-| Technology for Mental Health: Reflections on Scope and Future Directions in Institutes of Higher Education in India | Online Journal of Public Health Informatics | Oct 2025 |
+| [Title withheld: under review] | Journal of Medical Internet Research | Dec 2025 |
+| A Voice-Enabled Virtual Patient System for Interactive Training in Standardized Clinical Assessment | Journal of Medical Internet Research | Jan 2026 |
+| Detecting Uncoded Self-Harm in Veterans' Electronic Health Records Using Positive and Unlabeled Learning: Retrospective Cohort Study | Journal of Medical Internet Research | Jan 2026 |
+| [Title withheld: under review] | Journal of Medical Internet Research | Feb 2026; Apr 2026 |
+| Prediction Models for In-Hospital Delirium Using Routinely Collected Electronic Health Record Data: A Systematic Review | JMIR Medical Informatics | Mar 2026 |
+| [Title withheld: under review] | Journal of Medical Internet Research | Apr 2026; Aug 2026 |
+| 10 Years of BRAVE Self-Help Service Delivery for Child and Adolescent Anxiety in Australia: An Open Effectiveness-Implementation Trial | Journal of Medical Internet Research | Apr 2026 |
+| Should I and Can I Use AI for Forensic Psychiatry Report Writing? | JMIR Mental Health | May 2026 |
+| Risk Factors for Non-Initiation and Dropout in Blended Therapy in Outpatient Psychiatric Care | JMIR Human Factors | May 2026 |
+| [Title withheld: under review] | Journal of Medical Internet Research | May 2026 |
+| A Two-Stage Selective Escalation Framework for Robust Suicide Risk Detection on Social Media: Machine Learning Study | JMIR AI | May 2026; Aug 2026 |
+| [Title withheld: under review] | Journal of Medical Internet Research | Jul 2026 |
+| [Title withheld: under review] | JMIR Medical Informatics | Aug 2026 |
 
 ---
 
@@ -353,4 +370,3 @@ MDS capstone teams are listed under MDS Capstone Projects (DSCI 591), with roles
 | **Dr. Reinhard Michael Krausz** | UBC-Providence Leadership Chair for Addiction Research; Professor of Psychiatry; Director, Addiction Psychiatry; +1 (604) 649-9336; mkrausz@mail.ubc.ca |
 | **Dr. Raymond Ng** | Professor, Department of Computer Science, University of British Columbia; +1 (604) 822-2394; rng@cs.ubc.ca |
 | **Dr. Varada Kolhatkar** | Associate Professor of Teaching in Computer Science; Co-Director, Master of Data Science (Vancouver); kvarada@cs.ubc.ca |
-|

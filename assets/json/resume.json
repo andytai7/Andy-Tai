@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Man Yeung (Andy) Tai",
-    "label": "Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute / TU Dortmund University",
+    "label": "Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen",
     "image": "",
     "email": "man.tai@uk-essen.de",
     "url": "https://andytai7.github.io/Andy-Tai",
@@ -38,13 +38,16 @@
   },
   "work": [
     {
-      "name": "Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute / TU Dortmund University",
+      "name": "Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen",
       "position": "Postdoctoral Researcher",
       "location": "Essen, Germany",
       "startDate": "2026-07-01",
       "endDate": "",
-      "summary": "Federated learning in the FLIP-IT project (NEXT.IN.NRW-funded) with Prof. Jens Kleesiek and Dr. Moon Kim, supervised by Prof. Michael Kamp (Kamp Lab, Lamarr Institute / TU Dortmund University).",
-      "highlights": ["FLIP-IT: federated chronic kidney disease risk prediction across general practice clinics using the Flower framework"]
+      "summary": "Federated learning in the FLIP-IT project (NEXT.IN.NRW-funded) with Prof. Jens Kleesiek and Dr. Moon Kim; collaboration with Prof. Michael Kamp and the Kamp Lab, Lamarr Institute, TU Dortmund University.",
+      "highlights": [
+        "FLIP-IT: federated chronic kidney disease risk prediction across general practice clinics using the Flower framework",
+        "Developing privacy-preserving federated continual learning methods and an open-source benchmark toolkit; work in progress on activation and rank-code communication protocols"
+      ]
     },
     {
       "name": "University of British Columbia, Master of Data Science, Department of Statistics",

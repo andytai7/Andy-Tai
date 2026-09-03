@@ -87,8 +87,8 @@ them until Andy resolves them.
 ## Publications of record
 
 - 13 peer-reviewed journal articles; 6 as first author; 1 as
-  corresponding author (EAAI 2026). Cited 389 times (Google Scholar,
-  August 2026; update with date when refreshed).
+  corresponding author (EAAI 2026). Cited 392 times (Google Scholar,
+  September 2026; update with date when refreshed).
 - EAAI vessel-trajectory paper: vol. 169, 113933 (2026),
   doi:10.1016/j.engappai.2026.113933. Author names in papers.bib
   were corrected Aug 31, 2026 to the publisher-registered list
