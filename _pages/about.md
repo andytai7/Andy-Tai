@@ -3,16 +3,16 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Postdoctoral Researcher, Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and Kamp Lab, Lamarr Institute / TU Dortmund University
+  Postdoctoral Researcher, <a href="https://mml.ikim.nrw/authors/andy-man-yeung-tai/">Institute for Artificial Intelligence in Medicine (IKIM)</a>, University Hospital Essen, and <a href="https://mlai-cs.relaunch.tu-dortmund.de/people/andy-man-yeung-tai/">Kamp Lab, Lamarr Institute / TU Dortmund University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Institute for Artificial Intelligence in Medicine (IKIM)</p>
+    <p><a href="https://mml.ikim.nrw/authors/andy-man-yeung-tai/">Institute for Artificial Intelligence in Medicine (IKIM)</a></p>
     <p>University Hospital Essen</p>
-    <p>Kamp Lab, Lamarr Institute / TU Dortmund University</p>
+    <p><a href="https://mlai-cs.relaunch.tu-dortmund.de/people/andy-man-yeung-tai/">Kamp Lab, Lamarr Institute / TU Dortmund University</a></p>
     <p>Essen, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Andy Tai, a Postdoctoral Researcher at the Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen, and the Kamp Lab at the Lamarr Institute and TU Dortmund University, supervised by Prof. Michael Kamp. I work on federated and privacy-preserving machine learning for medicine: methods that let a clinical model learn from data held at many hospitals without any of those hospitals releasing patient records. The interesting problems are the ones that constraint creates, namely how much the sites have to communicate, what the privacy guarantee actually protects against, and whether a model trained this way holds up when the sites disagree.
+I'm Andy Tai, a Postdoctoral Researcher at the [Institute for Artificial Intelligence in Medicine (IKIM)](https://mml.ikim.nrw/authors/andy-man-yeung-tai/), University Hospital Essen, and the [Kamp Lab at the Lamarr Institute and TU Dortmund University](https://mlai-cs.relaunch.tu-dortmund.de/people/andy-man-yeung-tai/), supervised by Prof. Michael Kamp. I work on federated and privacy-preserving machine learning for medicine: methods that let a clinical model learn from data held at many hospitals without any of those hospitals releasing patient records. The interesting problems are the ones that constraint creates, namely how much the sites have to communicate, what the privacy guarantee actually protects against, and whether a model trained this way holds up when the sites disagree.
 
 My main project is FLIP-IT (Federated Learning in Practice Networks), funded by NEXT.IN.NRW with the European Union and the state of North Rhine-Westphalia. I am building federated risk prediction models for chronic kidney disease across general practice clinics, using the Flower framework, supervised by Prof. Michael Kamp (Lamarr Institute and TU Dortmund University), with Prof. Jens Kleesiek (IKIM) and Dr. Moon Kim (IKIM).
 
