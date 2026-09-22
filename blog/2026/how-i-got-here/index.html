@@ -1,0 +1,257 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title> How I Got Here: From the Lab Bench to Hospital Data | Andy Man Yeung Tai </title> <meta name="author" content="Andy Man Yeung Tai"> <meta name="description" content="A long answer to a short question. Basketball, a bad first year, optogenetics at SickKids, the overdose crisis, ten courses at UBC, and why I moved to Essen."> <meta name="keywords" content="federated learning, privacy-preserving machine learning, medical AI, clinical decision support, overdose risk prediction, data science education"> <meta property="og:site_name" content="Andy Man Yeung Tai"> <meta property="og:type" content="article"> <meta property="og:title" content="Andy Man Yeung Tai | How I Got Here: From the Lab Bench to Hospital Data"> <meta property="og:url" content="https://andytai7.github.io/Andy-Tai/blog/2026/how-i-got-here/"> <meta property="og:description" content="A long answer to a short question. Basketball, a bad first year, optogenetics at SickKids, the overdose crisis, ten courses at UBC, and why I moved to Essen."> <meta property="og:image" content="https://andytai7.github.io/Andy-Tai/assets/img/og_cover.jpg"> <meta property="og:locale" content="en"> <meta name="twitter:card" content="summary"> <meta name="twitter:title" content="How I Got Here: From the Lab Bench to Hospital Data"> <meta name="twitter:description" content="A long answer to a short question. Basketball, a bad first year, optogenetics at SickKids, the overdose crisis, ten courses at UBC, and why I moved to Essen."> <meta name="twitter:image" content="https://andytai7.github.io/Andy-Tai/assets/img/og_cover.jpg"> <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' data: https:; font-src 'self' data: https:; media-src 'self' https:; frame-src 'self' https:; connect-src 'self' https:;"> <style>
+  :root {
+    --max-content-width: 930px;
+  }
+</style> <link rel="stylesheet" href="/Andy-Tai/assets/css/tailwind.css?v=50c64c15cbb9fd1ce6056fdb8bcb4b62"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tocbot@4.36.4/dist/tocbot.css" integrity="sha256-zTN0r+0OKaIv2xqeNNIYxNk0pWJ6+IqPGc1iDgVzWF0=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.2.0/css/all.min.css" integrity="sha256-MVopmdyC2tYTiJ8wlktf0uh0v4NgT+vNdyVFepi7Q0c=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.5/css/academicons.min.css" integrity="sha256-SzrCOBJbGVFMahewkgjwnApaV2+av1DwMAA+/QGLyZw=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/scholar-icons@1.0.3/css/scholar-icons.css" integrity="sha256-VY3hHVj/hNX3fYG6wtbA6TcKJQl7+FthzGSyIB64klY=" crossorigin="anonymous"> <link defer rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&amp;display=swap"> <link defer rel="stylesheet" href="/Andy-Tai/assets/css/jekyll-pygments-themes-github.css?v=591dab5a4e56573bf4ef7fd332894c99" media="" id="highlight_theme_light"> <link rel="shortcut icon" href="/Andy-Tai/assets/img/favicon.png?v=2ffda189b353707485a5495467d0e754"> <link rel="apple-touch-icon" href="/Andy-Tai/assets/img/apple-touch-icon.png?v=a560bf3a95985bdbcb7460e828ab675e"> <link rel="stylesheet" href="/Andy-Tai/assets/css/main.css?v=3116ba77db9ee1581d05bb3e86fbf7f1"> <link rel="canonical" href="https://andytai7.github.io/Andy-Tai/blog/2026/how-i-got-here/"> <script src="/Andy-Tai/assets/js/theme.js?v=5286c3e4c334d0ecb8fc0c40ff4fa7ec"></script> <link defer rel="stylesheet" href="/Andy-Tai/assets/css/jekyll-pygments-themes-native.css?v=5847e5ed4a4568527aa6cfab446049ca" media="none" id="highlight_theme_dark"> <script>
+    initTheme();
+  </script> </head> <body class="fixed-top-nav "> <header> <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top" role="navigation"> <div class="container"> <a class="navbar-brand title font-weight-lighter" href="/Andy-Tai/"> <span class="font-weight-bold">Andy</span> Man Yeung Tai </a> <button class="navbar-toggler collapsed navbar-toggler-main" type="button" data-nav-toggle="navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span> </button> <div class="collapse navbar-collapse navbar-collapse-main" id="navbarNav"> <ul class="navbar-nav navbar-menu-list flex-nowrap"> <li class="nav-item "> <a class="nav-link" href="/Andy-Tai/">about </a> </li> <li class="nav-item active"> <a class="nav-link" href="/Andy-Tai/blog/">blog <span class="sr-only">(current)</span> </a> </li> <li class="nav-item "> <a class="nav-link" href="/Andy-Tai/publications/">publications </a> </li> <li class="nav-item "> <a class="nav-link" href="/Andy-Tai/projects/">projects </a> </li> <li class="nav-item "> <a class="nav-link" href="/Andy-Tai/teaching/">teaching </a> </li> <li class="nav-item "> <a class="nav-link" href="/Andy-Tai/repositories/">repositories </a> </li> <li class="nav-item "> <a class="nav-link" href="/Andy-Tai/cv/">CV </a> </li> <li class="nav-item"> <button id="search-toggle" type="button" title="Search" aria-label="Open search"> <span class="nav-link">ctrl k <i class="fa-solid fa-magnifying-glass"></i></span> </button> </li> <li class="toggle-container"> <button id="light-toggle" type="button" title="Change theme" aria-label="Change color theme"> <i class="fa-half-sun-moon" id="light-toggle-system"></i> <i class="fa-solid fa-moon" id="light-toggle-dark"></i> <i class="fa-solid fa-sun" id="light-toggle-light"></i> </button> </li> </ul> </div> </div> </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header> <div class="container mt-5" role="main"> <div class="row"> <div class="col-sm-3"> <nav id="toc-sidebar" class="sticky-top toc toc-sidebar" aria-label="Table of contents" data-toc-collapse="expanded" data-toc-collapse-depth=""></nav> </div> <div class="col-sm-9"> <div class="post"> <header class="post-header"> <h1 class="post-title">How I Got Here: From the Lab Bench to Hospital Data</h1> <p class="post-meta"> Created on September 22, 2026 by Andy Man Yeung Tai </p> <p class="post-tags"> <a href="/Andy-Tai/blog/2026"> <i class="fa-solid fa-calendar fa-sm"></i> 2026 </a>   ·   <a href="/Andy-Tai/blog/tag/career"> <i class="fa-solid fa-hashtag fa-sm"></i> career</a>   <a href="/Andy-Tai/blog/tag/mental-health"> <i class="fa-solid fa-hashtag fa-sm"></i> mental-health</a>   <a href="/Andy-Tai/blog/tag/machine-learning"> <i class="fa-solid fa-hashtag fa-sm"></i> machine-learning</a>   <a href="/Andy-Tai/blog/tag/teaching"> <i class="fa-solid fa-hashtag fa-sm"></i> teaching</a>   ·   <a href="/Andy-Tai/blog/category/personal"> <i class="fa-solid fa-tag fa-sm"></i> personal</a> </p> </header> <article class="post-content"> <div id="markdown-content"> <p>People sometimes ask how a neuroscience student ended up building machine learning tools inside a German hospital. The short answer is that I kept following the question that interested me most. The longer answer is below. It is more personal than most of what I write here, but it explains why I work the way I do.</p> <h2 id="a-slow-start">A slow start</h2> <p>I grew up in Vancouver and, for a long time, I did not feel that I fit in anywhere. Sport and science were where I felt most at home. I swam and played basketball at the provincial level in high school, and I gave up music to go further in sport.</p> <p>In grade 10, on my high school basketball team, I was the target of harassment by older teammates. I left that year determined never to feel so powerless again. For a while that turned into an all-or-nothing drive that did not serve me well. I trained harder than anyone, chose my university by where I could make the team, and made the varsity basketball team at the University of Toronto.</p> <p>Then I nearly failed my first year. Success on the court had not fixed what was underneath, and I had stopped paying attention to almost everything else. Rebuilding from there taught me more than any early success had. It also taught me that steady effort beats intensity, a lesson I still have to relearn from time to time.</p> <h2 id="finding-research">Finding research</h2> <p>Research is where I found my footing.</p> <p>In Sheena Josselyn’s lab at SickKids, I studied the amygdala with optogenetics and operant conditioning. I learned molecular biology from Dr. Brandon Walters and learned to handle animals, perfuse, slice and image brains from PhD student Alex Jacob. It was my first real contact with how much about the brain is still unknown, and it made me want a career in research.</p> <p>At the same time, in Roger McIntyre’s Mood Disorders Psychopharmacology Unit at Toronto Western Hospital, I worked with machine learning specialist Dr. Alcides Albuquerque on a review of big data and machine learning in psychiatry. It became my first first-author paper, in <em>Artificial Intelligence in Medicine</em> (2019). More importantly, it showed me that I could contribute to medicine through data and not only at the bench.</p> <p>I was also volunteering during these years. At Toronto Western I worked with elderly patients in the Hospital Elder Life Program, my first time in a clinical setting. Earlier, with a student group, I had helped build a school in the Maasai Mara in Kenya from materials we fundraised for. Both experiences stayed with me as reminders of who research is ultimately for.</p> <h2 id="the-overdose-crisis">The overdose crisis</h2> <p>In 2018 I moved back to Vancouver. After a short stint in Clare Beasley’s lab at BC Children’s Hospital, classifying microglia in brain tissue from people with bipolar disorder and schizophrenia, I joined Michael Krausz’s Addiction and Concurrent Disorders Group at UBC. That is where I found the research I wanted to do.</p> <p>I worked on WalkAlong, a youth mental health platform, and on RAMP, the Risk Assessment and Management Platform, funded by Health Canada’s Substance Use and Addictions Program, on which I became a Co-Investigator. My PhD in Neuroscience used the BC Provincial Overdose Cohort (2015 to 2019, 36,679 people) to predict overdose risk from routine administrative and clinical data. The best models reached 91.12 per cent AUROC for general overdose prediction.</p> <p>The result I remember most is not the number. It is a pattern I saw again and again. A clinician asks a question, and it takes months of extraction, cleaning and statistics before an answer comes back, even though the data were there all along. By the time the answer arrives, the question has often moved on.</p> <p>During my PhD I also spent three months at the University of Sydney’s Brain and Mind Centre, with Ian Hickie and Frank Iorfino’s digital mental health team. They taught me to think about where a prediction fits into a person’s care, not just whether it is accurate. That collaboration later became our 2026 paper on artificial intelligence in youth mental health.</p> <h2 id="teaching">Teaching</h2> <p>From 2024 to 2026 I was a Postdoctoral Teaching and Learning Fellow in UBC’s Master of Data Science and Department of Statistics. I taught 10 courses to more than 550 students, from probability and databases to data visualization and science communication, and I co-wrote <em>The Regression Cookbook</em>, an open textbook that teaches statistics and machine learning side by side in Python and R.</p> <p>Teaching changed how I do research. Students do not let you hide behind jargon, so I learned to define terms before using them and to put the uncertainty next to every estimate. I also supervised capstone teams working with partners such as BC Children’s Hospital and the Vaccine Evaluation Center; one of those projects became a paper in <em>Engineering Applications of Artificial Intelligence</em>.</p> <p>My own first year at university taught me how easily a capable student can fall behind without anyone noticing. That is a large part of why I care about mentoring. I founded Building Blocks, a peer-mentoring nonprofit, in 2019 and still run it, and I now mentor students from undergraduate to PhD level.</p> <h2 id="moving-to-essen">Moving to Essen</h2> <p>In July 2026 I moved to Germany to join the Institute for Artificial Intelligence in Medicine (IKIM) at University Hospital Essen. I work on FLIP-IT, a project that trains prediction models for chronic kidney disease inside general practices, so that patient data never leave the practice. The project brings together clinical AI with Jens Kleesiek and learning theory with Michael Kamp at the Lamarr Institute and TU Dortmund. (I wrote about FLIP-IT in <a href="/Andy-Tai/blog/2026/federated-learning-primary-care/">an earlier post</a>.)</p> <p>Essen was the right place for a simple reason. The hospital runs its own FHIR data platform and its own compute, and it treats data protection as part of the engineering rather than as paperwork. That makes it possible to build methods on real data under real governance.</p> <h2 id="what-i-have-learned">What I have learned</h2> <p>A few things have stayed constant across all of this.</p> <ul> <li> <strong>Report plainly.</strong> Clinicians have little time. Give them the number, the uncertainty, and what did not work.</li> <li> <strong>Measure, do not assume.</strong> If a method can be wrong, find out how often before anyone relies on it.</li> <li> <strong>Work across disciplines.</strong> Almost everything I have done well, I have done in teams where people with different training catch different mistakes.</li> <li> <strong>Steady beats intense.</strong> It took me a bad first year to learn it, and it has served me better than talent or drive ever did.</li> </ul> <p>If any of this overlaps with what you work on, I would be glad to hear from you.</p> </div> </article> </div> </div> </div> </div> <footer class="fixed-bottom" role="contentinfo"> <div class="container mt-0"> © Copyright 2026 Andy Man Yeung Tai. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
+  window.alFolio = {
+    compatBootstrap: false
+  };
+</script> <script src="/Andy-Tai/assets/js/nav-toggle.js?v=141bd79a73ebc0f0b6ea58e440ae79fc"></script> <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script> <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script> <script defer src="/Andy-Tai/assets/js/masonry.js?v=e49affc7bd2646f6acdad1dbe02c2359" type="text/javascript"></script> <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js" integrity="sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI=" crossorigin="anonymous"></script> <script src="/Andy-Tai/assets/al_math/js/mathjax-setup.js"></script> <script src="/Andy-Tai/assets/js/tooltips-setup.js?v=fe487e99db6c43751e6e7bdb2d6a0611"></script> <script defer src="https://cdn.jsdelivr.net/npm/tocbot@4.36.4/dist/tocbot.min.js" integrity="sha256-lo/r+jQ81wWrxdIiiiEEd538z4+dTJTt+leOuAS7GCw=" crossorigin="anonymous"></script> <script src="/Andy-Tai/assets/js/no_defer.js?v=53b1b1a645525975c963ce8bf8bfefcf"></script> <script defer src="/Andy-Tai/assets/js/common.js?v=87baac90f765f2f3362dcf6aaf312a8a"></script> <script defer src="/Andy-Tai/assets/js/copy_code.js?v=c8a01c11a92744d44b093fc3bda915df" type="text/javascript"></script> <script defer src="/Andy-Tai/assets/js/jupyter_new_tab.js?v=896d254890d9b47f0281f63bfccf0dee"></script> <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script> <script async src="https://badge.dimensions.ai/badge.js"></script> <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js" integrity="sha256-ZgMyDAIYDYGxbcpJcfUnYwNevG/xi9OHKaR/8GK+jWc=" crossorigin="anonymous"></script> <script defer src="/Andy-Tai/assets/al_img_tools/js/zoom.js"></script> <script defer src="/Andy-Tai/assets/js/progress-bar.js?v=499464c5c63ced6cf7ad62509f1e2610" type="text/javascript"></script> <script src="https://cdn.jsdelivr.net/npm/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js" integrity="sha256-uMJJ3EoTyfRBoTbR+lrfu1uRQ87RZG8AR3cVNuQVeFg=" crossorigin="anonymous"></script> <script>
+    addBackToTop();
+  </script> <script type="module" src="/Andy-Tai/assets/al_search/js/search/ninja-keys.min.js"></script> <ninja-keys hidebreadcrumbs noautoloadmdicons placeholder="Type to start searching"></ninja-keys> <script src="/Andy-Tai/assets/al_search/js/search-setup.js"></script> <script>
+// get the ninja-keys element
+const ninja = document.querySelector('ninja-keys');
+
+// add the home and posts menu items
+ninja.data = [{
+    id: "nav-about",
+    title: "about",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "/Andy-Tai/";
+    },
+  },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Andy-Tai/blog/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "Peer-reviewed publications and preprints in reverse chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Andy-Tai/publications/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Research and consulting projects in machine learning for medicine, federated learning, and data science education.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Andy-Tai/projects/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Courses taught at UBC, primary instructor across Master of Data Science, statistics, and science programs (2024-2026), reaching 550+ graduate and undergraduate students.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Andy-Tai/teaching/";
+          },
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "GitHub profile and selected open-source repositories, including the GGenemy R package, overdose risk prediction models, and federated learning demos.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Andy-Tai/repositories/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Curriculum vitae of Andy Tai, Postdoctoral Researcher at the Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen. You can also download a shorter resume (PDF).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Andy-Tai/cv/";
+          },
+        },{id: "post-how-i-got-here-from-the-lab-bench-to-hospital-data",
+        
+          title: "How I Got Here: From the Lab Bench to Hospital Data",
+        
+        description: "A long answer to a short question. Basketball, a bad first year, optogenetics at SickKids, the overdose crisis, ten courses at UBC, and why I moved to Essen.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/Andy-Tai/blog/2026/how-i-got-here/";
+          
+        },
+      },{id: "post-federated-learning-for-primary-care-training-models-without-moving-data",
+        
+          title: "Federated Learning for Primary Care: Training Models Without Moving Data",
+        
+        description: "Most medical AI is built in hospitals. FLIP-IT deliberately targets primary care: we train models inside general practices, where routine data actually lives.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/Andy-Tai/blog/2026/federated-learning-primary-care/";
+          
+        },
+      },{id: "news-i-completed-my-phd-in-neuroscience-at-ubc-my-dissertation-machine-learning-applications-in-addiction-risk-prediction-http-hdl-handle-net-2429-87759-develops-machine-learning-models-for-overdose-risk-prediction-on-the-bc-provincial-overdose-cohort",
+          title: 'I completed my PhD in Neuroscience at UBC. My dissertation, *[Machine Learning Applications...',
+          description: "",
+          section: "News",},{id: "news-i-joined-ubc-39-s-master-of-data-science-https-masterdatascience-ubc-ca-program-as-a-postdoctoral-teaching-and-learning-fellow-teaching-graduate-and-undergraduate-data-science-courses",
+          title: 'I joined UBC&amp;#39;s [Master of Data Science](https://masterdatascience.ubc.ca/) program as a Postdoctoral Teaching and...',
+          description: "",
+          section: "News",},{id: "news-our-paper-utilizing-machine-learning-for-early-intervention-and-risk-management-in-the-opioid-overdose-crisis-was-published-in-wires-computational-statistics-separately-the-hava-maritime-criminal-detection-project-with-clause-technology-and-ncis-is-underway",
+          title: 'Our paper *Utilizing Machine Learning for Early Intervention and Risk Management in the...',
+          description: "",
+          section: "News",},{id: "news-our-overdose-risk-classifier-preprint-a-machine-learning-approach-a-classification-model-for-overdose-is-now-on-research-square-https-doi-org-10-21203-rs-3-rs-7380471-v1-the-revised-manuscript-is-under-review-at-bmc-public-health",
+          title: 'Our overdose-risk classifier preprint, *A machine learning approach: A classification model for overdose*,...',
+          description: "",
+          section: "News",},{id: "news-two-new-publications-semi-supervised-vessel-trajectory-analysis-for-unregulated-fishing-activity-detection-in-engineering-applications-of-artificial-intelligence-where-i-am-the-corresponding-author-and-rethinking-ai-in-youth-mental-health-in-the-international-journal-of-mental-health-systems",
+          title: 'Two new publications: *Semi-supervised vessel trajectory analysis for unregulated fishing activity detection* in...',
+          description: "",
+          section: "News",},{id: "news-i-started-as-a-postdoctoral-researcher-at-the-institute-for-artificial-intelligence-in-medicine-ikim-https-www-uk-essen-de-university-hospital-essen-working-on-the-flip-it-project-federated-learning-for-medical-data",
+          title: 'I started as a Postdoctoral Researcher at the [Institute for Artificial Intelligence in...',
+          description: "",
+          section: "News",},{id: "news-this-site-has-been-rebuilt-from-the-ground-up-on-the-al-folio-https-github-com-alshedivat-al-folio-jekyll-template-new-projects-andy-tai-projects-updated-publications-andy-tai-publications-a-full-cv-andy-tai-cv-teaching-portfolio-andy-tai-teaching-and-a-blog-andy-tai-blog-i-am-now-launching-with-a-post-on-federated-learning-in-primary-care-andy-tai-blog-2026-federated-learning-primary-care-feedback-welcome",
+          title: 'This site has been rebuilt from the ground up on the [al-folio](https://github.com/alshedivat/al-folio) Jekyll...',
+          description: "",
+          section: "News",},{id: "projects-machine-learning-for-overdose-risk-prediction-ramp",
+          title: 'Machine Learning for Overdose Risk Prediction (RAMP)',
+          description: "Overdose risk prediction models for clinical decision support, funded by Health Canada (RAMP project)",
+          section: "Projects",handler: () => {
+              window.location.href = "/Andy-Tai/projects/1_project/";
+            },},{id: "projects-hava-maritime-criminal-detection",
+          title: 'HAVA: Maritime Criminal Detection',
+          description: "NLP pipeline for detecting illegal fishing and maritime criminal behaviour, built with Clause Technology and NCIS",
+          section: "Projects",handler: () => {
+              window.location.href = "/Andy-Tai/projects/2_project/";
+            },},{id: "projects-federated-learning-for-medical-data-flip-it",
+          title: 'Federated Learning for Medical Data (FLIP-IT)',
+          description: "Privacy-preserving machine learning across primary care practices, IKIM, University Hospital Essen",
+          section: "Projects",handler: () => {
+              window.location.href = "/Andy-Tai/projects/3_project/";
+            },},{id: "projects-ggenemy",
+          title: 'GGenemy',
+          description: "R package for automated auditing of ggplot2 visualizations",
+          section: "Projects",handler: () => {
+              window.location.href = "/Andy-Tai/projects/4_project/";
+            },},{id: "projects-the-regression-cookbook-stats-flavours",
+          title: 'The Regression Cookbook (Stats Flavours)',
+          description: "Open-access textbook that teaches regression in both the machine learning and statistics idioms, with Python and R code side by side. Funded by the UBC OER Fund.",
+          section: "Projects",handler: () => {
+              window.location.href = "/Andy-Tai/projects/5_project/";
+            },},{id: "teachings-dsci-100-statistics-and-data-science",
+          title: 'DSCI 100: Statistics and Data Science',
+          description: "Introduction to data science and statistical reasoning, reproducible workflows, exploratory data analysis, and introductory machine learning.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/Andy-Tai/teachings/dsci-100/";
+            },},{id: "teachings-dsci-513-databases-and-sql-for-data-science",
+          title: 'DSCI 513: Databases and SQL for Data Science',
+          description: "Relational databases, SQL querying, data modeling, and retrieval pipelines for data science practice.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/Andy-Tai/teachings/dsci-513/";
+            },},{id: "teachings-dsci-521-data-science-tooling",
+          title: 'DSCI 521: Data Science, Tooling',
+          description: "Computing platforms and workflows for data science, shells, version control, reproducible environments, and collaborative development.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/Andy-Tai/teachings/dsci-521/";
+            },},{id: "teachings-dsci-531-data-visualization-i",
+          title: 'DSCI 531: Data Visualization I',
+          description: "Principled data visualization with Altair and ggplot2, grammar of graphics, perception, and critical assessment of AI-assisted visualization.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/Andy-Tai/teachings/dsci-531/";
+            },},{id: "teachings-dsci-542-communication-and-argumentation",
+          title: 'DSCI 542: Communication and Argumentation',
+          description: "Technical communication for data scientists, evidence-based argumentation, audience-aware writing, and presentation.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/Andy-Tai/teachings/dsci-542/";
+            },},{id: "teachings-dsci-551-descriptive-statistics-and-probability-for-data-science",
+          title: 'DSCI 551: Descriptive Statistics and Probability for Data Science',
+          description: "Probability foundations and descriptive statistics, distributions, estimation, and simulation-based reasoning.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/Andy-Tai/teachings/dsci-551/";
+            },},{id: "teachings-dsci-591-capstone-project",
+          title: 'DSCI 591: Capstone Project',
+          description: "Industry-partnered capstone supervision and evaluation, 8-10 week applied data science projects with external organizations.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/Andy-Tai/teachings/dsci-591/";
+            },},{id: "teachings-scie-113-amp-scie-300-science-communication",
+          title: 'SCIE 113 &amp;amp; SCIE 300: Science Communication',
+          description: "Communication of scientific ideas across audiences, first-year seminar (SCIE 113) and third-year science communication (SCIE 300).",
+          section: "Teachings",handler: () => {
+              window.location.href = "/Andy-Tai/teachings/scie-113-300/";
+            },},{id: "teachings-stat-302-introduction-to-probability",
+          title: 'STAT 302: Introduction to Probability',
+          description: "Probability theory for statistics students, random variables, distributions, expectation, limit theorems.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/Andy-Tai/teachings/stat-302/";
+            },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/Andy-Tai/assets/pdf/cv.pdf", "_blank");
+        },
+      },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6D%61%6E.%74%61%69@%75%6B-%65%73%73%65%6E.%64%65", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=Cs0lX0sAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/andytai7", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/andy-man-yeung-tai-783160122", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-5262-8615", "_blank");
+        },
+      },{
+        id: 'social-rss',
+        title: 'RSS Feed',
+        section: 'Socials',
+        handler: () => {
+          window.open("/Andy-Tai/feed.xml", "_blank");
+        },
+      },{
+      id: 'light-theme',
+      title: 'Change theme to light',
+      description: 'Change the theme of the site to Light',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("light");
+      },
+    },
+    {
+      id: 'dark-theme',
+      title: 'Change theme to dark',
+      description: 'Change the theme of the site to Dark',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("dark");
+      },
+    },
+    {
+      id: 'system-theme',
+      title: 'Use system default theme',
+      description: 'Change the theme of the site to System Default',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("system");
+      },
+    },];
+
+</script> <script src="/Andy-Tai/assets/al_search/js/shortcut-key.js"></script> </body> </html>
