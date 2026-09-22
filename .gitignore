@@ -22,3 +22,14 @@ __pycache__/
 
 
 .blog-notes/
+
+# AI layer (local tooling, not site content)
+logs/
+.agents/
+.archon/
+.claude/
+.omp/
+.mcp.json
+AGENTS.md
+CLAUDE.md
+diagrams/
