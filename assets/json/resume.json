@@ -263,6 +263,12 @@
   ],
   "publications": [
     {
+      "name": "Measuring Severity",
+      "publisher": "AXIOM 2026: Foundations of Efficient Deep Learning (NeurIPS 2026 workshop), Grand Challenges track",
+      "releaseDate": "2026-09-29",
+      "url": "https://openreview.net/forum?id=AFWMSe0WOT"
+    },
+    {
       "name": "Semi-supervised vessel trajectory analysis for unregulated fishing activity detection",
       "publisher": "Engineering Applications of Artificial Intelligence 169, 113933",
       "releaseDate": "2026-01-01",
@@ -364,39 +370,80 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": ["Python", "R", "JavaScript", "React (basic)", "SQL"]
+      "keywords": [
+        "Python",
+        "R",
+        "JavaScript",
+        "React (basic)",
+        "SQL"
+      ]
     },
     {
       "name": "Federated Learning",
-      "keywords": ["Flower framework", "federated pipeline design", "communication-efficient distributed training"]
+      "keywords": [
+        "Flower framework",
+        "federated pipeline design",
+        "communication-efficient distributed training"
+      ]
     },
     {
       "name": "ML and Data Science",
-      "keywords": ["scikit-learn", "TensorFlow", "PyTorch", "BERT/transformers", "NLP"]
+      "keywords": [
+        "scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "BERT/transformers",
+        "NLP"
+      ]
     },
     {
       "name": "LLM Infrastructure",
-      "keywords": ["Agentic coding tools with custom LiteLLM gateway", "LLM-assisted pipelines"]
+      "keywords": [
+        "Agentic coding tools with custom LiteLLM gateway",
+        "LLM-assisted pipelines"
+      ]
     },
     {
       "name": "Visualization & Notebooks",
-      "keywords": ["JupyterLab", "RStudio", "VS Code", "Altair", "ggplot2"]
+      "keywords": [
+        "JupyterLab",
+        "RStudio",
+        "VS Code",
+        "Altair",
+        "ggplot2"
+      ]
     },
     {
       "name": "Databases",
-      "keywords": ["MongoDB", "PostgreSQL", "SQL"]
+      "keywords": [
+        "MongoDB",
+        "PostgreSQL",
+        "SQL"
+      ]
     },
     {
       "name": "Cloud & DevOps",
-      "keywords": ["Docker", "AWS (basics)"]
+      "keywords": [
+        "Docker",
+        "AWS (basics)"
+      ]
     },
     {
       "name": "Statistics & Meta-analysis",
-      "keywords": ["SPSS", "SAS (basics)", "Covidence", "cumulative link mixed models", "Stuart-Maxwell tests"]
+      "keywords": [
+        "SPSS",
+        "SAS (basics)",
+        "Covidence",
+        "cumulative link mixed models",
+        "Stuart-Maxwell tests"
+      ]
     },
     {
       "name": "Course Infrastructure",
-      "keywords": ["PrairieLearn assessment and rubric design", "Quarto course websites"]
+      "keywords": [
+        "PrairieLearn assessment and rubric design",
+        "Quarto course websites"
+      ]
     }
   ],
   "languages": [
