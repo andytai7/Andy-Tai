@@ -59,12 +59,23 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Curriculum vitae of Andy Tai, Postdoctoral Researcher at the Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen. You can also download a shorter resume (PDF).",
+          description: "Curriculum vitae of Andy Tai, Postdoctoral Researcher at the Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Andy-Tai/cv/";
           },
-        },{id: "post-how-i-got-here-from-the-lab-bench-to-hospital-data",
+        },{id: "post-measuring-severity-what-error-rates-hide",
+        
+          title: "Measuring Severity: What Error Rates Hide",
+        
+        description: "Two models with the same accuracy can fail in very different ways. A Grand Challenges paper at AXIOM 2026 argues that expert-labeled severity is a missing evaluation primitive, most urgent when comparing efficient models for clinical prediction.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/Andy-Tai/blog/2026/measuring-severity/";
+          
+        },
+      },{id: "post-how-i-got-here-from-the-lab-bench-to-hospital-data",
         
           title: "How I Got Here: From the Lab Bench to Hospital Data",
         
@@ -106,6 +117,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-this-site-has-been-rebuilt-from-the-ground-up-on-the-al-folio-jekyll-template-new-projects-updated-publications-a-full-cv-teaching-portfolio-and-a-blog-i-am-now-launching-with-a-post-on-federated-learning-in-primary-care-feedback-welcome",
           title: 'This site has been rebuilt from the ground up on the al-folio Jekyll...',
+          description: "",
+          section: "News",},{id: "news-our-grand-challenges-submission-measuring-severity-with-nico-kallenberg-jens-kleesiek-and-michael-kamp-was-accepted-to-axiom-2026-foundations-of-efficient-deep-learning-https-axiom-neurips2026-github-io-the-neurips-2026-workshop-on-predictive-principles-for-efficient-ai-the-paper-argues-that-expert-labeled-severity-of-wrong-answers-is-a-missing-evaluation-primitive-most-urgent-when-selecting-efficient-models-for-clinical-prediction-paper-on-openreview-https-openreview-net-forum-id-afwmse0wot",
+          title: 'Our Grand Challenges submission, *Measuring Severity* (with Nico Kallenberg, Jens Kleesiek, and Michael...',
           description: "",
           section: "News",},{id: "projects-machine-learning-for-overdose-risk-prediction-ramp",
           title: 'Machine Learning for Overdose Risk Prediction (RAMP)',
