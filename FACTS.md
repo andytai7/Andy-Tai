@@ -19,6 +19,13 @@ them until Andy resolves them.
   this is the canonical one.
 - Email: man.tai@uk-essen.de. Site: andytai7.github.io/Andy-Tai/.
   GitHub: andytai7. ORCID: 0000-0001-5262-8615.
+- Home city: Köln, Germany (CV and resume, October 2026); workplace:
+  IKIM, Essen. The published PDFs (assets/pdf/cv.pdf, resume.pdf)
+  carry the Köln street address, a German mobile number, and the
+  referees' phone numbers and emails. The site's JSON CV
+  (assets/json/resume.json) publishes city and country only; keep
+  street address and phone numbers out of it unless Andy says
+  otherwise.
 
 ## RAMP (Risk Assessment and Management Platform)
 
@@ -59,10 +66,15 @@ them until Andy resolves them.
   across general practice clinics, Flower framework. With
   Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute
   and TU Dortmund), Dr. Moon Kim (IKIM).
-- Direct supervisor: Prof. Michael Kamp (Kamp Lab, Lamarr
-  Institute for Machine Learning and Artificial Intelligence / TU
-  Dortmund University). Andy's affiliation is IKIM plus the Kamp
-  Lab (Lamarr Institute / TU Dortmund University).
+- Supervision as stated in the CV and resume of October 15, 2026:
+  jointly supervised by Prof. Jens Kleesiek (IKIM) and Prof. Michael
+  Kamp (Kamp Lab, Lamarr Institute for Machine Learning and
+  Artificial Intelligence / TU Dortmund University). Andy's
+  affiliation is IKIM plus the Kamp Lab (Lamarr Institute / TU
+  Dortmund University). The about page and the FLIP-IT project page
+  still name Kamp as the supervisor with Kleesiek as collaborator;
+  [CHECK: align those two pages with the CV wording, or keep the
+  older framing].
 - Broader aim: early detection of complications in diabetes, COPD,
   coronary heart disease.
 - Work packages: LEGAL, DATA, NETWORK.
@@ -73,11 +85,12 @@ them until Andy resolves them.
 
 ## Industry work
 
-- Clause Technology (Jul - Oct 2025), HAVA maritime criminal
-  detection with NCIS. The "65% reduction in manual triage time"
-  figure was fabricated (Andy, Aug 31, 2026) and was removed from
-  the site; do not restore it without a documented measurement
-  basis.
+- Clause Technology (Jul - Oct 2025), HAVA, an agentic system for
+  detecting illegal fishing and maritime criminal behaviour, with
+  NCIS (wording from the CV, October 2026). The "65% reduction in
+  manual triage time" figure was fabricated (Andy, Aug 31, 2026) and
+  was removed from the site; do not restore it without a documented
+  measurement basis.
 - NAI Innovations, analyst, since Apr 2024.
 - Concussion RX, data scientist, Apr - Sep 2024, concussion subtype
   analysis.
@@ -87,8 +100,9 @@ them until Andy resolves them.
 ## Publications of record
 
 - 13 peer-reviewed journal articles; 6 as first author; 1 as
-  corresponding author (EAAI 2026). Cited 392 times (Google Scholar,
-  September 2026; update with date when refreshed).
+  corresponding author (EAAI 2026). Cited 412 times (Google Scholar,
+  October 2026; update with date when refreshed). The CV and resume
+  of October 15, 2026 carry this figure.
 - EAAI vessel-trajectory paper: vol. 169, 113933 (2026),
   doi:10.1016/j.engappai.2026.113933. Author names in papers.bib
   were corrected Aug 31, 2026 to the publisher-registered list

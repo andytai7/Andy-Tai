@@ -5,13 +5,13 @@
     "image": "",
     "email": "man.tai@uk-essen.de",
     "url": "https://andytai7.github.io/Andy-Tai",
-    "summary": "Federated and privacy-preserving machine learning for medicine: methods that let clinical models learn from distributed hospital data without centralizing patient records, while accounting for communication cost, privacy, and reliability. My background is applied health machine learning; during my PhD in Neuroscience I applied ML to problems in addiction psychiatry, including overdose risk prediction and clinical decision support.",
+    "summary": "My research develops federated and privacy-preserving machine learning for trustworthy AI in medicine: methods that let clinical models learn from distributed hospital data without centralizing patient records, with explicit accounting of communication cost, privacy, and reliability. It builds on a PhD in neuroscience in which I applied machine learning to addiction psychiatry, including overdose risk prediction and clinical decision support.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Essen",
+      "city": "Köln",
       "countryCode": "DE",
-      "region": ""
+      "region": "North Rhine-Westphalia"
     },
     "profiles": [
       {
@@ -43,9 +43,11 @@
       "location": "Essen, Germany",
       "startDate": "2026-07-01",
       "endDate": "",
-      "summary": "Federated learning in the FLIP-IT project (NEXT.IN.NRW-funded) with Prof. Jens Kleesiek and Dr. Moon Kim; collaboration with Prof. Michael Kamp and the Kamp Lab, Lamarr Institute, TU Dortmund University.",
+      "summary": "Jointly supervised by Prof. Jens Kleesiek (IKIM) and Prof. Michael Kamp (Kamp Lab, Lamarr Institute, TU Dortmund). Federated learning for medical data in the FLIP-IT project (NEXT.IN.NRW-funded), with Dr. Moon Kim.",
       "highlights": [
-        "FLIP-IT: federated chronic kidney disease risk prediction across general practice clinics using the Flower framework",
+        "FLIP-IT: federated chronic kidney disease risk prediction (P(CKD stage >= 3)) across general practice clinics using the Flower framework",
+        "Privacy design: patient-level DP-SGD with SecAgg+ secure aggregation, FedAvg, an RDP privacy accountant with one global (ε, δ) target and per-practice noise calibration, per-round monitoring of global and worst-practice AUROC and sensitivity",
+        "Governance gate before on-site deployment: membership-inference leakage audit plus clinical and legal review",
         "Developing privacy-preserving federated continual learning methods and an open-source benchmark toolkit; work in progress on activation and rank-code communication protocols"
       ]
     },
@@ -55,8 +57,9 @@
       "location": "Vancouver, BC, Canada",
       "startDate": "2024-07-01",
       "endDate": "2026-06-30",
-      "summary": "Two-year appointment, completed June 2026. Primary instructor across MDS, statistics, and science courses.",
+      "summary": "Two-year appointment, completed June 2026. Primary instructor for 10 data science, statistics, and science courses reaching more than 550 graduate and undergraduate students; capstone supervision; curriculum development; educational research.",
       "highlights": [
+        "Courses include Data Visualization (DSCI 531), Probability (DSCI 551, STAT 302), Databases and SQL (DSCI 513), and Communication and Argumentation (DSCI 542)",
         "PrairieLearn assessment and rubric design; Quarto-based course websites; lecture materials on data visualization (Altair, ggplot2), simulation, and AI literacy",
         "Evaluator for MDS capstone presentations with industry partners including Clarius Mobile Health and VRIFY Technology",
         "Department of Statistics EDI Seminar Series coordinator; SEDI Committee postdoctoral representative (Sep 2025 - Jun 2026)"
@@ -68,7 +71,7 @@
       "location": "Vancouver, BC, Canada",
       "startDate": "2025-07-01",
       "endDate": "2025-10-01",
-      "summary": "HAVA maritime criminal detection system: automated system with web scraping for incident reports; NLP-based incident classification; LLM-assisted similarity de-duplication; BERT/NER/fuzzy matching; dockerized architecture (MongoDB/PostgreSQL); cloud-ready. PDF table parsing pipeline (computer vision and OCR for complex tables; image preprocessing; variable extraction and standardization).",
+      "summary": "Built HAVA, an agentic system for detecting illegal fishing and maritime criminal behaviour, with Nautical Crime Investigation Services (NCIS): automated web scraping, NLP incident classification, and LLM-assisted de-duplication (BERT/NER extraction of vessels, locations, and organizations; fuzzy matching) in a Dockerized, cloud-ready MongoDB/PostgreSQL architecture. Developed a computer vision and OCR pipeline for complex PDF tables (rotations, multi-table pages), including image preprocessing and variable extraction.",
       "highlights": []
     },
     {
@@ -77,7 +80,7 @@
       "location": "Vancouver, BC, Canada",
       "startDate": "2024-04-01",
       "endDate": "",
-      "summary": "Evaluation of ML-driven startups in medical cannabis symptom management; algorithmic performance analysis; strategy for AI in neuroscience and psychiatry.",
+      "summary": "Evaluation of machine learning-driven start-ups in medical cannabis symptom management; algorithmic performance analysis; strategy for AI in neuroscience and psychiatry.",
       "highlights": []
     },
     {
@@ -86,7 +89,7 @@
       "location": "Vancouver, BC, Canada",
       "startDate": "2024-04-01",
       "endDate": "2024-09-01",
-      "summary": "ML and statistical modeling for concussion subtype analysis; clinical onboarding documentation; ConcussionRX and Llama 3 toolchain.",
+      "summary": "Machine learning and statistical modelling for concussion subtype analysis; clinical onboarding documentation for the ConcussionRX and Llama 3 toolchain.",
       "highlights": []
     },
     {
@@ -200,6 +203,34 @@
       "startDate": "2024-01-01",
       "endDate": "2024-12-31",
       "summary": "323 attendees, 41 research presentations."
+    },
+    {
+      "organization": "Neuroscience Graduate Student Association, UBC",
+      "position": "VP Student Life and First-Year Representative",
+      "startDate": "2019-01-01",
+      "endDate": "2020-12-31",
+      "summary": ""
+    },
+    {
+      "organization": "UBC Esports",
+      "position": "CS:GO Director",
+      "startDate": "2019-01-01",
+      "endDate": "2023-12-31",
+      "summary": ""
+    },
+    {
+      "organization": "Walter Gage Toastmasters",
+      "position": "Member",
+      "startDate": "2019-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Communication and leadership."
+    },
+    {
+      "organization": "Coast Mental Health, Vancouver",
+      "position": "Volunteer",
+      "startDate": "2019-01-01",
+      "endDate": "2020-12-31",
+      "summary": "Mentorship and activities."
     }
   ],
   "education": [
@@ -345,6 +376,30 @@
       "publisher": "Artificial Intelligence in Medicine 99, 101704",
       "releaseDate": "2019-01-01",
       "url": "https://doi.org/10.1016/j.artmed.2019.101704"
+    },
+    {
+      "name": "Machine Learning Applications in Addiction Risk Prediction (PhD dissertation, Neuroscience)",
+      "publisher": "University of British Columbia",
+      "releaseDate": "2024-04-01",
+      "url": "http://hdl.handle.net/2429/87759"
+    },
+    {
+      "name": "A machine learning approach: A classification model for overdose",
+      "publisher": "BMC Public Health, revised manuscript under review; preprint at Research Square (2025)",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.21203/rs.3.rs-7380471/v1"
+    },
+    {
+      "name": "Role of artificial intelligence in mental health",
+      "publisher": "Book chapter in Innovations in Global Mental Health (Springer), under review",
+      "releaseDate": "2025-01-01",
+      "url": ""
+    },
+    {
+      "name": "Personal and educational experiences of medical students on attitudes towards psychiatry",
+      "publisher": "Research Square, preprint",
+      "releaseDate": "2022-01-01",
+      "url": "https://doi.org/10.21203/rs.3.rs-2299344/v1"
     }
   ],
   "projects": [
@@ -352,7 +407,19 @@
       "name": "FLIP-IT, Federated learning for medical data",
       "startDate": "2026-07-01",
       "endDate": "",
-      "summary": "IKIM, University Hospital Essen; NEXT.IN.NRW-funded. Building federated chronic kidney disease risk prediction across general practice clinics using the Flower framework. Collaboration with Prof. Jens Kleesiek (IKIM), Prof. Michael Kamp (Lamarr Institute), and Dr. Moon Kim."
+      "summary": "IKIM, University Hospital Essen; NEXT.IN.NRW-funded. Federated Learning in Practice Networks, co-funded by the European Union and North Rhine-Westphalia, builds infrastructure for decentralized training of medical AI across general practices in NRW (consortium: IKIM, docport, Flower Labs, KVWL, KVNO; project lead: Dr. Nicolas Conze). I build federated chronic kidney disease risk prediction (P(CKD stage >= 3)) on the Flower framework, with a privacy design of patient-level DP-SGD and SecAgg+ secure aggregation, FedAvg, an RDP privacy accountant with one global (ε, δ) target and per-practice noise calibration, per-round monitoring of global and worst-practice AUROC and sensitivity, and a governance gate with membership-inference leakage audit and clinical and legal review before on-site deployment. With Prof. Jens Kleesiek, Prof. Michael Kamp, and Dr. Moon Kim. Project site: https://www.flipit-research.network/"
+    },
+    {
+      "name": "Brain-inspired federated continual learning for healthcare AI",
+      "startDate": "2026-07-01",
+      "endDate": "",
+      "summary": "Privacy-preserving federated continual learning algorithms (federated synaptic consolidation, federated hippocampal replay, predictive-coding federated learning) that let clinical models learn continuously from distributed hospital data without catastrophic forgetting; open-source benchmark toolkit."
+    },
+    {
+      "name": "Activation and rank-code communication protocols for federated learning",
+      "startDate": "2026-07-01",
+      "endDate": "",
+      "summary": "Federated protocols in which clients communicate activation or rank codes (which units fire, and in what order) instead of model parameters, with pre-registered control arms and explicit communication-bitrate accounting."
     },
     {
       "name": "RAMP, Risk Assessment and Management Platform",
@@ -364,7 +431,7 @@
       "name": "HAVA, Maritime criminal detection system",
       "startDate": "2025-07-01",
       "endDate": "2025-10-01",
-      "summary": "With Clause Technology and NCIS. Automated web scraping, NLP incident classification, BERT/NER/fuzzy matching entity resolution, LLM-assisted de-duplication, dockerized MongoDB/PostgreSQL deployment."
+      "summary": "With Clause Technology and NCIS. Agentic system for detecting illegal fishing and maritime criminal behaviour: automated web scraping, NLP incident classification, BERT/NER entity resolution of vessels, locations, and organizations, LLM-assisted de-duplication, and a Dockerized MongoDB/PostgreSQL deployment."
     }
   ],
   "skills": [
@@ -373,9 +440,19 @@
       "keywords": [
         "Python",
         "R",
+        "SQL",
         "JavaScript",
-        "React (basic)",
-        "SQL"
+        "React (basic)"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "BERT/transformers",
+        "NLP"
       ]
     },
     {
@@ -387,62 +464,41 @@
       ]
     },
     {
-      "name": "ML and Data Science",
+      "name": "LLM Tooling",
       "keywords": [
-        "scikit-learn",
-        "TensorFlow",
-        "PyTorch",
-        "BERT/transformers",
-        "NLP"
+        "LiteLLM gateway configuration for agentic coding tools",
+        "LLM-assisted data pipelines"
       ]
     },
     {
-      "name": "LLM Infrastructure",
+      "name": "Data and DevOps",
       "keywords": [
-        "Agentic coding tools with custom LiteLLM gateway",
-        "LLM-assisted pipelines"
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "AWS (basics)",
+        "Git"
       ]
     },
     {
-      "name": "Visualization & Notebooks",
+      "name": "Statistics",
       "keywords": [
+        "Cumulative link mixed models",
+        "Stuart-Maxwell tests",
+        "meta-analysis (Covidence)",
+        "SPSS",
+        "SAS (basics)"
+      ]
+    },
+    {
+      "name": "Teaching Tools",
+      "keywords": [
+        "PrairieLearn",
+        "Quarto",
         "JupyterLab",
         "RStudio",
-        "VS Code",
         "Altair",
         "ggplot2"
-      ]
-    },
-    {
-      "name": "Databases",
-      "keywords": [
-        "MongoDB",
-        "PostgreSQL",
-        "SQL"
-      ]
-    },
-    {
-      "name": "Cloud & DevOps",
-      "keywords": [
-        "Docker",
-        "AWS (basics)"
-      ]
-    },
-    {
-      "name": "Statistics & Meta-analysis",
-      "keywords": [
-        "SPSS",
-        "SAS (basics)",
-        "Covidence",
-        "cumulative link mixed models",
-        "Stuart-Maxwell tests"
-      ]
-    },
-    {
-      "name": "Course Infrastructure",
-      "keywords": [
-        "PrairieLearn assessment and rubric design",
-        "Quarto course websites"
       ]
     }
   ],
@@ -470,27 +526,33 @@
       "keywords": [
         "Federated and continual learning",
         "Privacy-preserving and communication-efficient distributed training",
-        "Machine learning and deep learning",
+        "Deep learning",
         "Clinical prediction and risk modelling",
-        "Statistical modelling and meta-analysis",
-        "NLP and LLM tooling",
-        "Knowledge translation"
+        "Natural language processing and large language model tooling",
+        "Statistical modelling and meta-analysis"
       ]
     },
     {
       "name": "Applications",
       "keywords": [
-        "Federated learning for medical data (FLIP-IT)",
-        "Trustworthy AI in medicine",
+        "Federated learning for medical data",
         "Addiction psychiatry and the overdose crisis",
         "Digital and youth mental health",
-        "Clinical decision support systems",
+        "Clinical decision support",
         "Maritime surveillance",
         "Data science education and AI literacy"
       ]
     }
   ],
   "references": [
+    {
+      "name": "Prof. Jens Kleesiek",
+      "reference": "Postdoctoral co-supervisor (joint); Institute for Artificial Intelligence in Medicine (IKIM), University Hospital Essen"
+    },
+    {
+      "name": "Prof. Michael Kamp",
+      "reference": "Postdoctoral co-supervisor (joint); Lamarr Institute for Machine Learning and Artificial Intelligence, TU Dortmund University"
+    },
     {
       "name": "Dr. Reinhard Michael Krausz",
       "reference": "UBC-Providence Leadership Chair for Addiction Research; Professor of Psychiatry"
